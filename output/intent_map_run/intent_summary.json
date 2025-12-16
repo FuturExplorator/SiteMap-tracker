@@ -1,0 +1,451 @@
+{
+  "by_intent_category": [
+    {
+      "intent_category": "unknown",
+      "url_count": 291,
+      "sample_urls": [
+        "/",
+        "/sora-enhancer/",
+        "/pricing/"
+      ]
+    },
+    {
+      "intent_category": "general-image",
+      "url_count": 34,
+      "sample_urls": [
+        "/image-upscaler/",
+        "/blog/picsart-ai-image-enhancer-review/",
+        "/blog/free-ai-image-upscaler/"
+      ]
+    },
+    {
+      "intent_category": "general-video",
+      "url_count": 15,
+      "sample_urls": [
+        "/video-enhancer/",
+        "/video-enhancer/",
+        "/blog/tags/video-enhancer/"
+      ]
+    },
+    {
+      "intent_category": "unblur-image",
+      "url_count": 11,
+      "sample_urls": [
+        "/blog/how-to-unblur-image-online/",
+        "/blog/tags/unblur-image/",
+        "/blog/tags/best-ai-unblur-image-tool/"
+      ]
+    },
+    {
+      "intent_category": "general-photo",
+      "url_count": 10,
+      "sample_urls": [
+        "/photo-enhancer/",
+        "/old-photo-restoration/",
+        "/blog/free-ai-photo-enhancer/"
+      ]
+    },
+    {
+      "intent_category": "blur-blur",
+      "url_count": 6,
+      "sample_urls": [
+        "/blur-remover/",
+        "/blur-to-clear/",
+        "/blog/tags/focus-blur/"
+      ]
+    },
+    {
+      "intent_category": "remove-image",
+      "url_count": 5,
+      "sample_urls": [
+        "/blog/remove-noise-from-image/",
+        "/blog/tags/remove-blur-from-image/",
+        "/blog/how-to-batch-remove-image-blur/"
+      ]
+    },
+    {
+      "intent_category": "unblur-video",
+      "url_count": 3,
+      "sample_urls": [
+        "/unblur-video/",
+        "/blog/tags/unblur-video/",
+        "/blog/how-to-unblur-video/"
+      ]
+    },
+    {
+      "intent_category": "general-picture",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/change-resolution-of-a-picture/",
+        "/blog/make-picture-less-blurry/",
+        "/blog/make-blurry-picture-clear/"
+      ]
+    },
+    {
+      "intent_category": "enhance-image",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/tags/enhance-image/",
+        "/blog/tags/enhance-low-resolution-image/",
+        "/blog/enhance-text-image/"
+      ]
+    },
+    {
+      "intent_category": "fix-image",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/tags/fix-blurry-image/",
+        "/blog/fix-pixlated-image-online-free/",
+        "/blog/how-to-fix-blurry-image/"
+      ]
+    },
+    {
+      "intent_category": "general-text",
+      "url_count": 2,
+      "sample_urls": [
+        "/text-enhancer/",
+        "/developers/examples/text-to-video/"
+      ]
+    },
+    {
+      "intent_category": "upscale-video",
+      "url_count": 2,
+      "sample_urls": [
+        "/upscale-video/",
+        "/blog/upscale-video-online-free/"
+      ]
+    },
+    {
+      "intent_category": "restore-photo",
+      "url_count": 2,
+      "sample_urls": [
+        "/blog/tags/restore-old-photo/",
+        "/blog/how-to-restore-old-photo/"
+      ]
+    },
+    {
+      "intent_category": "enhance-general",
+      "url_count": 2,
+      "sample_urls": [
+        "/blog/lets-enhance-review/",
+        "/apps/enhance/"
+      ]
+    },
+    {
+      "intent_category": "remove-general",
+      "url_count": 2,
+      "sample_urls": [
+        "/apps/edit/remove-object/",
+        "/api-reference/styles/remove-a-style-from-your-workspace/"
+      ]
+    },
+    {
+      "intent_category": "denoise-image",
+      "url_count": 1,
+      "sample_urls": [
+        "/denoise-image/"
+      ]
+    },
+    {
+      "intent_category": "remove-noise",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/remove-noise/"
+      ]
+    },
+    {
+      "intent_category": "unblur-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/unblur-photo/"
+      ]
+    },
+    {
+      "intent_category": "enhance-video",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/enhance-blurry-video-free/"
+      ]
+    },
+    {
+      "intent_category": "unblur-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/unblur-text-online-free/"
+      ]
+    },
+    {
+      "intent_category": "fix-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/fix-blurry-photo/"
+      ]
+    },
+    {
+      "intent_category": "sharpen-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/how-to-unblur-sharpen-social-images/"
+      ]
+    },
+    {
+      "intent_category": "remove-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/remove-text/"
+      ]
+    },
+    {
+      "intent_category": "colorize-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/colorize/"
+      ]
+    },
+    {
+      "intent_category": "general-poster",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/movie-poster/"
+      ]
+    }
+  ],
+  "by_action_object": [
+    {
+      "action": "unknown",
+      "object": "unknown",
+      "url_count": 291,
+      "sample_urls": [
+        "/",
+        "/sora-enhancer/",
+        "/pricing/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "image",
+      "url_count": 34,
+      "sample_urls": [
+        "/image-upscaler/",
+        "/blog/picsart-ai-image-enhancer-review/",
+        "/blog/free-ai-image-upscaler/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "video",
+      "url_count": 15,
+      "sample_urls": [
+        "/video-enhancer/",
+        "/video-enhancer/",
+        "/blog/tags/video-enhancer/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "image",
+      "url_count": 11,
+      "sample_urls": [
+        "/blog/how-to-unblur-image-online/",
+        "/blog/tags/unblur-image/",
+        "/blog/tags/best-ai-unblur-image-tool/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "photo",
+      "url_count": 10,
+      "sample_urls": [
+        "/photo-enhancer/",
+        "/old-photo-restoration/",
+        "/blog/free-ai-photo-enhancer/"
+      ]
+    },
+    {
+      "action": "blur",
+      "object": "blur",
+      "url_count": 6,
+      "sample_urls": [
+        "/blur-remover/",
+        "/blur-to-clear/",
+        "/blog/tags/focus-blur/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "image",
+      "url_count": 5,
+      "sample_urls": [
+        "/blog/remove-noise-from-image/",
+        "/blog/tags/remove-blur-from-image/",
+        "/blog/how-to-batch-remove-image-blur/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "video",
+      "url_count": 3,
+      "sample_urls": [
+        "/unblur-video/",
+        "/blog/tags/unblur-video/",
+        "/blog/how-to-unblur-video/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "picture",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/change-resolution-of-a-picture/",
+        "/blog/make-picture-less-blurry/",
+        "/blog/make-blurry-picture-clear/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "image",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/tags/enhance-image/",
+        "/blog/tags/enhance-low-resolution-image/",
+        "/blog/enhance-text-image/"
+      ]
+    },
+    {
+      "action": "fix",
+      "object": "image",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/tags/fix-blurry-image/",
+        "/blog/fix-pixlated-image-online-free/",
+        "/blog/how-to-fix-blurry-image/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "text",
+      "url_count": 2,
+      "sample_urls": [
+        "/text-enhancer/",
+        "/developers/examples/text-to-video/"
+      ]
+    },
+    {
+      "action": "upscale",
+      "object": "video",
+      "url_count": 2,
+      "sample_urls": [
+        "/upscale-video/",
+        "/blog/upscale-video-online-free/"
+      ]
+    },
+    {
+      "action": "restore",
+      "object": "photo",
+      "url_count": 2,
+      "sample_urls": [
+        "/blog/tags/restore-old-photo/",
+        "/blog/how-to-restore-old-photo/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "unknown",
+      "url_count": 2,
+      "sample_urls": [
+        "/blog/lets-enhance-review/",
+        "/apps/enhance/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "unknown",
+      "url_count": 2,
+      "sample_urls": [
+        "/apps/edit/remove-object/",
+        "/api-reference/styles/remove-a-style-from-your-workspace/"
+      ]
+    },
+    {
+      "action": "denoise",
+      "object": "image",
+      "url_count": 1,
+      "sample_urls": [
+        "/denoise-image/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "noise",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/remove-noise/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/unblur-photo/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "video",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/enhance-blurry-video-free/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/unblur-text-online-free/"
+      ]
+    },
+    {
+      "action": "fix",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/fix-blurry-photo/"
+      ]
+    },
+    {
+      "action": "sharpen",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/how-to-unblur-sharpen-social-images/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/remove-text/"
+      ]
+    },
+    {
+      "action": "colorize",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/colorize/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "poster",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/movie-poster/"
+      ]
+    }
+  ],
+  "total_urls": 404
+}
