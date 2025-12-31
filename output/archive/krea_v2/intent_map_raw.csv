@@ -1,0 +1,249 @@
+url,path,path_depth,slug_tokens,action,object,scene,intent_category,notes,lastmod
+https://www.krea.ai/,/,0,,,,,unknown,,2025-12-15
+https://www.krea.ai/app/,/app/,1,app,,,,unknown,,2025-12-15
+https://www.krea.ai/features/ai-image-generator/,/features/ai-image-generator/,2,features ai image generator,generate,image,,generate-image,Generate new image from prompts or source assets.,2025-12-15
+https://www.krea.ai/features/ai-video-generator/,/features/ai-video-generator/,2,features ai video generator,generate,video,,generate-video,Generate new video from prompts or source assets.,2025-12-15
+https://www.krea.ai/features/ai-upscaler/,/features/ai-upscaler/,2,features ai upscaler,upscale,,,upscale-general,Increase resolution/size of the content without losing quality.,2025-12-15
+https://docs.krea.ai/,/,0,,,,,unknown,,2025-12-15
+https://www.krea.ai/pricing/,/pricing/,1,pricing,,,,unknown,,2025-12-15
+https://www.krea.ai/enterprise/,/enterprise/,1,enterprise,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/realtime/,/realtime/,1,realtime,,,,unknown,,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/motion-transfer/,/motion-transfer/,1,motion transfer,,,,unknown,,2025-12-15
+https://www.krea.ai/3d/,/3d/,1,3d,,,,unknown,,2025-12-15
+https://www.krea.ai/enhancer/,/enhancer/,1,enhancer,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://www.krea.ai/edit/,/edit/,1,edit,,,,unknown,,2025-12-15
+https://www.krea.ai/animator/,/animator/,1,animator,,,,unknown,,2025-12-15
+https://www.krea.ai/video-restyle/,/video-restyle/,1,video restyle,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/train/,/train/,1,train,,,,unknown,,2025-12-15
+https://www.krea.ai/assets/,/assets/,1,assets,,,,unknown,,2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/features/ai-enhancer/,/features/ai-enhancer/,2,features ai enhancer,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/pricing/teams/,/pricing/teams/,2,pricing teams,,,,unknown,,2025-12-15
+https://www.krea.ai/careers/,/careers/,1,careers,,,,unknown,,2025-12-15
+https://www.krea.ai/feed/,/feed/,1,feed,,,,unknown,,2025-12-15
+https://www.krea.ai/terms/,/terms/,1,terms,,,,unknown,,2025-12-15
+https://www.krea.ai/privacy/,/privacy/,1,privacy,,,,unknown,,2025-12-15
+https://www.krea.ai/blog/,/blog/,1,blog,,,,unknown,,2025-12-15
+https://www.krea.ai/discord/,/discord/,1,discord,,,,unknown,,2025-12-15
+https://www.krea.ai/nano-banana/,/nano-banana/,1,nano banana,,,,unknown,,2025-12-15
+https://www.krea.ai/nodes/,/nodes/,1,nodes,,,,unknown,,2025-12-15
+https://www.krea.ai/lipsync/,/lipsync/,1,lipsync,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/edit/hold-product/,/apps/edit/hold-product/,3,apps edit hold product,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/image/flux-krea/,/apps/image/flux-krea/,3,apps image flux krea,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/apps/image/wan-t2i/,/apps/image/wan-t2i/,3,apps image wan t2i,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/apps/image/qwen/,/apps/image/qwen/,3,apps image qwen,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/apps/image/t-shirt-design-maker/,/apps/image/t-shirt-design-maker/,3,apps image t shirt design maker,generate,image,,generate-image,Generate new image from prompts or source assets.,2025-12-15
+https://www.krea.ai/apps/edit/nano-banana-pro/,/apps/edit/nano-banana-pro/,3,apps edit nano banana pro,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/edit/remove-text/,/apps/edit/remove-text/,3,apps edit remove text,remove,text,,remove-text,Remove unwanted parts or artifacts from the text.,2025-12-15
+https://www.krea.ai/apps/edit/ai-hairstyle-changer/,/apps/edit/ai-hairstyle-changer/,3,apps edit ai hairstyle changer,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/edit/remove-object/,/apps/edit/remove-object/,3,apps edit remove object,remove,,,remove-general,Remove unwanted parts or artifacts from the content.,2025-12-15
+https://www.krea.ai/apps/edit/change-lighting/,/apps/edit/change-lighting/,3,apps edit change lighting,convert,,,convert-general,Convert the content between formats.,2025-12-15
+https://www.krea.ai/apps/edit/cartoonify/,/apps/edit/cartoonify/,3,apps edit cartoonify,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/edit/colorize/,/apps/edit/colorize/,3,apps edit colorize,colorize,,,colorize-general,Add or fix color in the content.,2025-12-15
+https://www.krea.ai/apps/edit/change-clothes/,/apps/edit/change-clothes/,3,apps edit change clothes,convert,,,convert-general,Convert the content between formats.,2025-12-15
+https://www.krea.ai/architecture/,/architecture/,1,architecture,,,,unknown,,2025-12-15
+https://www.krea.ai/chat/,/chat/,1,chat,,,,unknown,,2025-12-15
+https://www.krea.ai/stage/,/stage/,1,stage,,,,unknown,,2025-12-15
+https://www.krea.ai/models/,/models/,1,models,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/,/articles/,1,articles,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/features/nodes/,/features/nodes/,2,features nodes,,,,unknown,,2025-12-15
+https://www.krea.ai/features/ai-image-editor/,/features/ai-image-editor/,2,features ai image editor,edit,image,,edit-image,image related utility.,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/enhancer/,/enhancer/,1,enhancer,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://www.krea.ai/enhancer/,/enhancer/,1,enhancer,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://docs.krea.ai/home/,/home/,1,home,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/,/user-guide/,1,user guide,,,,unknown,,2025-12-15
+https://docs.krea.ai/developers/introduction/,/developers/introduction/,2,developers introduction,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/introduction/,/api-reference/introduction/,2,api reference introduction,,,,unknown,,2025-12-15
+https://krea.ai/discord/,/discord/,1,discord,,,,unknown,,2025-12-15
+https://docs.krea.ai/developers/examples/text-to-image/,/developers/examples/text-to-image/,3,developers examples text to image,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/developers/interactiveexample/,/developers/interactiveexample/,2,developers interactiveexample,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/krea1/,/user-guide/features/krea1/,3,user guide features krea1,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/blog/krea-realtime-14b/,/blog/krea-realtime-14b/,2,blog krea realtime 14b,,,,unknown,,2025-12-15
+https://www.krea.ai/blog/flux-krea-open-source-release/,/blog/flux-krea-open-source-release/,2,blog flux krea open source release,,,,unknown,,2025-12-15
+https://www.krea.ai/blog/new-krea/,/blog/new-krea/,2,blog new krea,,,,unknown,,2025-12-15
+https://www.krea.ai/blog/introducing-teams/,/blog/introducing-teams/,2,blog introducing teams,,,,unknown,,2025-12-15
+https://www.krea.ai/blog/ship-week/,/blog/ship-week/,2,blog ship week,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/,/apps/,1,apps,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/enhance/,/apps/enhance/,2,apps enhance,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://www.krea.ai/apps/polaroid/,/apps/polaroid/,2,apps polaroid,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/video/sora-2/,/apps/video/sora-2/,3,apps video sora 2,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/apps/video/veo31/,/apps/video/veo31/,3,apps video veo31,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/apps/edit/movie-poster/,/apps/edit/movie-poster/,3,apps edit movie poster,,poster,,general-poster,poster related utility.,2025-12-15
+https://www.krea.ai/apps/edit/nano-banana-edit/,/apps/edit/nano-banana-edit/,3,apps edit nano banana edit,,,,unknown,,2025-12-15
+https://www.krea.ai/apps/edit/image-to-image/,/apps/edit/image-to-image/,3,apps edit image to image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/models/krea-1/,/models/krea-1/,2,models krea 1,,,,unknown,,2025-12-15
+https://www.krea.ai/models/nano-banana-pro/,/models/nano-banana-pro/,2,models nano banana pro,,,,unknown,,2025-12-15
+https://www.krea.ai/models/kling/,/models/kling/,2,models kling,,,,unknown,,2025-12-15
+https://www.krea.ai/models/runway/,/models/runway/,2,models runway,,,,unknown,,2025-12-15
+https://www.krea.ai/models/sora2/,/models/sora2/,2,models sora2,,,,unknown,,2025-12-15
+https://www.krea.ai/models/veo3/,/models/veo3/,2,models veo3,,,,unknown,,2025-12-15
+https://www.krea.ai/models/veo3.1,/models/veo3.1,2,models veo3.1,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/freepik-spaces-vs-krea-nodes/,/articles/freepik-spaces-vs-krea-nodes/,2,articles freepik spaces vs krea nodes,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/weavy-vs-imagine-art-flow/,/articles/weavy-vs-imagine-art-flow/,2,articles weavy vs imagine art flow,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/top-node-based-ai-workflow-apps/,/articles/top-node-based-ai-workflow-apps/,2,articles top node based ai workflow apps,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/figma-weave-vs-fal/,/articles/figma-weave-vs-fal/,2,articles figma weave vs fal,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/flora-vs-figma-weave/,/articles/flora-vs-figma-weave/,2,articles flora vs figma weave,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/invokeai-vs-flora/,/articles/invokeai-vs-flora/,2,articles invokeai vs flora,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/fal-vs-flora/,/articles/fal-vs-flora/,2,articles fal vs flora,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/sora-2/,/articles/sora-2/,2,articles sora 2,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/visual-electric-vs-krea/,/articles/visual-electric-vs-krea/,2,articles visual electric vs krea,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/nano-banana/,/articles/nano-banana/,2,articles nano banana,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/seedream-4-guide/,/articles/seedream-4-guide/,2,articles seedream 4 guide,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/midjourney-vs-krea/,/articles/midjourney-vs-krea/,2,articles midjourney vs krea,,,,unknown,,2025-12-15
+https://www.krea.ai/articles/ai-image-generators-2025/,/articles/ai-image-generators-2025/,2,articles ai image generators 2025,generate,image,,generate-image,Generate new image from prompts or source assets.,2025-12-15
+https://docs.krea.ai/api-reference/postman/,/api-reference/postman/,2,api reference postman,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/general/get-a-job-by-id/,/api-reference/general/get-a-job-by-id/,3,api reference general get a job by id,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/general/delete-a-job-by-id/,/api-reference/general/delete-a-job-by-id/,3,api reference general delete a job by id,remove,,,remove-general,Remove unwanted parts or artifacts from the content.,2025-12-15
+https://docs.krea.ai/api-reference/assets/list-assets/,/api-reference/assets/list-assets/,3,api reference assets list assets,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/assets/upload-an-asset/,/api-reference/assets/upload-an-asset/,3,api reference assets upload an asset,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/assets/get-an-asset/,/api-reference/assets/get-an-asset/,3,api reference assets get an asset,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/assets/delete-an-asset/,/api-reference/assets/delete-an-asset/,3,api reference assets delete an asset,remove,,,remove-general,Remove unwanted parts or artifacts from the content.,2025-12-15
+https://docs.krea.ai/api-reference/styles/train-a-custom-style-lora/,/api-reference/styles/train-a-custom-style-lora/,3,api reference styles train a custom style lora,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/styles/search-styles/,/api-reference/styles/search-styles/,3,api reference styles search styles,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/styles/get-a-single-style-by-id/,/api-reference/styles/get-a-single-style-by-id/,3,api reference styles get a single style by id,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/styles/update-a-style/,/api-reference/styles/update-a-style/,3,api reference styles update a style,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/styles/get-a-shareable-link-for-a-style/,/api-reference/styles/get-a-shareable-link-for-a-style/,3,api reference styles get a shareable link for a style,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/styles/share-a-style-with-your-workspace/,/api-reference/styles/share-a-style-with-your-workspace/,3,api reference styles share a style with your workspace,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/styles/remove-a-style-from-your-workspace/,/api-reference/styles/remove-a-style-from-your-workspace/,3,api reference styles remove a style from your workspace,remove,,,remove-general,Remove unwanted parts or artifacts from the content.,2025-12-15
+https://docs.krea.ai/api-reference/image/flux/,/api-reference/image/flux/,3,api reference image flux,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/flux-kontext/,/api-reference/image/flux-kontext/,3,api reference image flux kontext,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/nano-banana-pro/,/api-reference/image/nano-banana-pro/,3,api reference image nano banana pro,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/nano-banana/,/api-reference/image/nano-banana/,3,api reference image nano banana,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/flux-11-pro/,/api-reference/image/flux-11-pro/,3,api reference image flux 11 pro,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/flux-11-pro-ultra/,/api-reference/image/flux-11-pro-ultra/,3,api reference image flux 11 pro ultra,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/ideogram-20a-turbo/,/api-reference/image/ideogram-20a-turbo/,3,api reference image ideogram 20a turbo,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/ideogram-30/,/api-reference/image/ideogram-30/,3,api reference image ideogram 30,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/imagen-3/,/api-reference/image/imagen-3/,3,api reference image imagen 3,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/imagen-4/,/api-reference/image/imagen-4/,3,api reference image imagen 4,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/imagen-4-fast/,/api-reference/image/imagen-4-fast/,3,api reference image imagen 4 fast,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/imagen-4-ultra/,/api-reference/image/imagen-4-ultra/,3,api reference image imagen 4 ultra,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/runway-gen-4/,/api-reference/image/runway-gen-4/,3,api reference image runway gen 4,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/chatgpt-image/,/api-reference/image/chatgpt-image/,3,api reference image chatgpt image,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/seedream-3/,/api-reference/image/seedream-3/,3,api reference image seedream 3,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/seedream-4/,/api-reference/image/seedream-4/,3,api reference image seedream 4,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image/seededit/,/api-reference/image/seededit/,3,api reference image seededit,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/api-reference/image-enhance/topaz-generative/,/api-reference/image-enhance/topaz-generative/,3,api reference image enhance topaz generative,enhance,image,,enhance-image,"Improve quality of the image (sharpness, contrast, detail).",2025-12-15
+https://docs.krea.ai/api-reference/image-enhance/topaz/,/api-reference/image-enhance/topaz/,3,api reference image enhance topaz,enhance,image,,enhance-image,"Improve quality of the image (sharpness, contrast, detail).",2025-12-15
+https://docs.krea.ai/api-reference/image-enhance/bloom/,/api-reference/image-enhance/bloom/,3,api reference image enhance bloom,enhance,image,,enhance-image,"Improve quality of the image (sharpness, contrast, detail).",2025-12-15
+https://docs.krea.ai/api-reference/video/kling-10/,/api-reference/video/kling-10/,3,api reference video kling 10,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/kling-15/,/api-reference/video/kling-15/,3,api reference video kling 15,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/kling-16/,/api-reference/video/kling-16/,3,api reference video kling 16,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/kling-20/,/api-reference/video/kling-20/,3,api reference video kling 20,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/kling-21/,/api-reference/video/kling-21/,3,api reference video kling 21,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/kling-25/,/api-reference/video/kling-25/,3,api reference video kling 25,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/hailuo/,/api-reference/video/hailuo/,3,api reference video hailuo,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/hailuo-02/,/api-reference/video/hailuo-02/,3,api reference video hailuo 02,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/hailuo-23/,/api-reference/video/hailuo-23/,3,api reference video hailuo 23,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/hailuo-23-fast/,/api-reference/video/hailuo-23-fast/,3,api reference video hailuo 23 fast,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/pika-22/,/api-reference/video/pika-22/,3,api reference video pika 22,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/wan-21/,/api-reference/video/wan-21/,3,api reference video wan 21,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/wan-22/,/api-reference/video/wan-22/,3,api reference video wan 22,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/wan-25/,/api-reference/video/wan-25/,3,api reference video wan 25,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/veo-2/,/api-reference/video/veo-2/,3,api reference video veo 2,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/veo-3/,/api-reference/video/veo-3/,3,api reference video veo 3,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/veo-3-fast/,/api-reference/video/veo-3-fast/,3,api reference video veo 3 fast,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/veo-31/,/api-reference/video/veo-31/,3,api reference video veo 31,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/veo-31-fast/,/api-reference/video/veo-31-fast/,3,api reference video veo 31 fast,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/seedance-lite/,/api-reference/video/seedance-lite/,3,api reference video seedance lite,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/seedance-pro/,/api-reference/video/seedance-pro/,3,api reference video seedance pro,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/seedance-pro-fast/,/api-reference/video/seedance-pro-fast/,3,api reference video seedance pro fast,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/ray-2/,/api-reference/video/ray-2/,3,api reference video ray 2,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/runway-gen-3/,/api-reference/video/runway-gen-3/,3,api reference video runway gen 3,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/runway-gen-4/,/api-reference/video/runway-gen-4/,3,api reference video runway gen 4,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/api-reference/video/runway-aleph/,/api-reference/video/runway-aleph/,3,api reference video runway aleph,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/developers/job-lifecycle/,/developers/job-lifecycle/,2,developers job lifecycle,,,,unknown,,2025-12-15
+https://docs.krea.ai/developers/webhooks/,/developers/webhooks/,2,developers webhooks,,,,unknown,,2025-12-15
+https://docs.krea.ai/developers/rate-limits/,/developers/rate-limits/,2,developers rate limits,,,,unknown,,2025-12-15
+https://docs.krea.ai/developers/api-keys-and-billing/,/developers/api-keys-and-billing/,2,developers api keys and billing,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/get-started/what-is-krea/,/user-guide/get-started/what-is-krea/,3,user guide get started what is krea,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/krea-image/,/user-guide/features/krea-image/,3,user guide features krea image,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/user-guide/features/video/,/user-guide/features/video/,3,user guide features video,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/user-guide/features/realtime/,/user-guide/features/realtime/,3,user guide features realtime,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/enhancer/,/user-guide/features/enhancer/,3,user guide features enhancer,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://docs.krea.ai/user-guide/features/edit/,/user-guide/features/edit/,3,user guide features edit,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/training/,/user-guide/features/training/,3,user guide features training,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/3d/,/user-guide/features/3d/,3,user guide features 3d,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/teams/,/user-guide/features/teams/,3,user guide features teams,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/flux/,/user-guide/features/flux/,3,user guide features flux,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/imagen4/,/user-guide/features/imagen4/,3,user guide features imagen4,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/ideogram/,/user-guide/features/ideogram/,3,user guide features ideogram,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/openai/,/user-guide/features/openai/,3,user guide features openai,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/runway/,/user-guide/features/runway/,3,user guide features runway,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/features/veo3/,/user-guide/features/veo3/,3,user guide features veo3,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/help-and-support/manage-subscriptions/,/user-guide/help-and-support/manage-subscriptions/,3,user guide help and support manage subscriptions,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/help-and-support/compute-units/,/user-guide/help-and-support/compute-units/,3,user guide help and support compute units,,,,unknown,,2025-12-15
+https://docs.krea.ai/user-guide/help-and-support/refunds-and-billing/,/user-guide/help-and-support/refunds-and-billing/,3,user guide help and support refunds and billing,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/krea-image/,/features/krea-image/,2,features krea image,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/features/video/,/features/video/,2,features video,,video,,general-video,video related utility.,2025-12-15
+https://docs.krea.ai/features/enhancer/,/features/enhancer/,2,features enhancer,enhance,,,enhance-general,"Improve quality of the content (sharpness, contrast, detail).",2025-12-15
+https://docs.krea.ai/features/realtime/,/features/realtime/,2,features realtime,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/edit/,/features/edit/,2,features edit,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/training/,/features/training/,2,features training,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/3d/,/features/3d/,2,features 3d,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/krea1/,/features/krea1/,2,features krea1,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/veo3/,/features/veo3/,2,features veo3,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/openai/,/features/openai/,2,features openai,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/ideogram/,/features/ideogram/,2,features ideogram,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/runway/,/features/runway/,2,features runway,,,,unknown,,2025-12-15
+https://docs.krea.ai/get-started/what-is-krea/,/get-started/what-is-krea/,2,get started what is krea,,,,unknown,,2025-12-15
+https://krea.ai/krea-1/,/krea-1/,1,krea 1,,,,unknown,,2025-12-15
+https://docs.krea.ai/developers/examples/image-to-image/,/developers/examples/image-to-image/,3,developers examples image to image,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/developers/examples/text-to-video/,/developers/examples/text-to-video/,3,developers examples text to video,,text,,general-text,text related utility.,2025-12-15
+https://docs.krea.ai/developers/examples/image-to-video/,/developers/examples/image-to-video/,3,developers examples image to video,,image,,general-image,image related utility.,2025-12-15
+https://docs.krea.ai/developers/tutorials/train-image-style/,/developers/tutorials/train-image-style/,3,developers tutorials train image style,,image,,general-image,image related utility.,2025-12-15
+https://www.krea.ai/settings/api-tokens/,/settings/api-tokens/,2,settings api tokens,,,,unknown,,2025-12-15
+https://docs.krea.ai/api-reference/introduction.mdx,/api-reference/introduction.mdx,2,api reference introduction.mdx,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/flux/,/features/flux/,2,features flux,,,,unknown,,2025-12-15
+https://docs.krea.ai/features/imagen4/,/features/imagen4/,2,features imagen4,,,,unknown,,2025-12-15
+https://krea.ai/image/,/image/,1,image,,image,,general-image,image related utility.,2025-12-15
+https://krea.ai/settings/api-tokens/,/settings/api-tokens/,2,settings api tokens,,,,unknown,,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://krea.ai/careers/,/careers/,1,careers,,,,unknown,,2025-12-15
+https://www.krea.ai/provision/,/provision/,1,provision,,,,unknown,,2025-12-15
+https://www.krea.ai/settings/,/settings/,1,settings,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/video/,/video/,1,video,,video,,general-video,video related utility.,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15
+https://www.krea.ai/login/,/login/,1,login,,,,unknown,,2025-12-15

@@ -67,6 +67,12 @@ def load_config(path: Optional[str]) -> Dict[str, Any]:
             "user_agent": "SitemapTools/0.1",
             "timeout": 10,
             "delay": 0.0,
+            "retries": 3,
+            "extra_user_agents": [
+                "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            ],
         },
         "rules": {
             "actions": DEFAULT_ACTION_WORDS,

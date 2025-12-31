@@ -1,53 +1,64 @@
-Sitemap tools MVP
-=================
+# Sitemap Tracker & Analytics (FuturExplorator)
 
-Two small CLI tools for sitemap analysis:
+A comprehensive tool for tracking, analyzing, and visualizing website sitemaps over time. It transforms flat URL lists into structured, actionable insights about a competitor's product strategy and content updates.
 
-- Intent Map: parse one or more sitemaps, tag each URL with action/object/scene/intent and emit a raw CSV plus a summary JSON.
-- Sitemap Diff: compare an old and new sitemap, list new/removed URLs, and classify intents for the new URLs.
+## Key Capabilities
 
-Quick start
------------
+### 1. Automated Sitemap Analysis (CMS Agnostic)
+- **Auto-Discovery**: Automatically finds sitemaps via `robots.txt` or common paths.
+- **Recursive Parsing**: Handles deeply nested sitemap indexes.
+- **Intent Classification**: Uses rule-based logic (and optional LLM) to tag every URL with:
+  - **Intent**: Users' goal (e.g., `remove-background`, `upscale`, `login`).
+  - **Object**: Target asset (e.g., `face`, `audio`, `video`).
+  - **Action**: Operation (e.g., `generate`, `compress`).
 
-- Python 3.9+.
-- Optional deps if you want YAML config or LLM calls: `pip install pyyaml openai`.
+### 2. Historical Tracking & Diffing
+- **Snapshots**: Saves full site structure versions in `output/sites/<domain>/history/`.
+- **Change Detection**: Automatically identifying **New** and **Removed** URLs since the last visit.
+- **"New" Badging**: Dashboard highlights fresh content with pulsing green badges.
 
-Run the CLI:
+### 3. Interactive Dashboard (Next.js)
+A modern, dark-mode visualization tool to explore the data.
+
+#### **Three Powerful Views**
+1.  **📁 Structure View (Tree)**:
+    - Browse the physical URL hierarchy (e.g., `/features/edit/face`).
+    - **In-Place Expansion**: Deeply nested folders expand directly in the tree for seamless browsing.
+    - **Leaf Node Counts**: Quickly see how large each section is.
+
+2.  **🏷️ Intent View (Functional)**:
+    - Groups pages by *User Intent* (e.g., "All Upscaling Tools", "All Generators").
+    - Ignores URL structure to show what the product *does*.
+    - Sort by **Count** to see the biggest feature sets.
+
+3.  **🎬 Media View (Asset-Based)**:
+    - Groups pages by the *Object* they handle (e.g., "Image", "Video", "Text").
+    - Ideal for understanding a competitor's media focus.
+
+#### **Rich Filtering & Sorting**
+- **Sort By**: Name (A-Z) or Count (size of category).
+- **New Arrivals**: filter/highlight only new content.
+
+## Quick Start
+
+### 1. Run the Backend (Python)
+Extract data from a site (e.g., Krea.ai):
 
 ```bash
-python -m sitemap_tools intent-map --sitemap-url https://example.com/sitemap.xml --output-dir out
-python -m sitemap_tools sitemap-diff --old https://example.com/old.xml --new https://example.com/new.xml --output-dir out_diff
+# Basic run (fetches, classifies, updates history)
+python -m sitemap_tools cli run --domain krea.ai
 ```
 
-Inputs
-------
+### 2. Launch the Dashboard
+Visualize the data:
 
-- `--sitemap-url` or `--sitemap-file` (paths) for intent-map; you can pass multiple.
-- For diff: `--old` and `--new` each accept a URL or file path.
-- The parser supports sitemap indexes recursively.
+```bash
+cd dashboard
+npm run dev
+# Open http://localhost:3000
+```
 
-Outputs
--------
-
-- Intent map:
-  - `intent_map_raw.csv`: url, path, depth, tokens, action, object, scene, intent_category, notes, lastmod.
-  - `intent_summary.json`: grouped by intent_category and by action+object (with sample URLs).
-  - `intent_keywords_table.csv`: keywords first (tokens), action/object/scene/intent, heuristic note, related keywords, url.
-- Diff:
-  - `new_urls.csv`, `removed_urls.csv`.
-  - `diff_summary.json`: counts and new URLs grouped by intent_category.
-
-Config and knobs
-----------------
-
-- Default action/object dictionaries are built in. Override via `--config config.yml|json`.
-- `--max-urls` and `--sample {first,random}` to cap big sitemaps (default max 500, take first).
-- HTTP fetch: `--user-agent`, `--timeout`, `--delay` (seconds) between fetches; or skip fetching by using files.
-- LLM enrichment is optional: set `--llm-model gpt-4o-mini` (or any OpenAI-compatible name), plus `--llm-base-url`/`--llm-api-key` as needed. If not set, rule-only tagging runs and unknowns stay empty.
-
-Notes
------
-
-- Classification is URL/slug based; unknown or noisy slugs are marked `unknown` instead of hallucinated.
-- No crawling of page content, no reliance on `<lastmod>` for diff—diff uses set difference.
-- The code is modular (`sitemap`, `intent`, `llm`) so you can later wire a UI or other runners easily.
+## Project Structure
+- `sitemap_tools/`: Python core logic (fetching, intent classification, diffing).
+- `dashboard/`: Next.js frontend (visualization, state management).
+- `output/sites/`: Data storage (JSON/CSV snapshots organized by domain).

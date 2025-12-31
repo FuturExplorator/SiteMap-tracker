@@ -1,0 +1,2847 @@
+{
+  "by_intent_category": [
+    {
+      "intent_category": "unknown",
+      "url_count": 76,
+      "sample_urls": [
+        "/",
+        "/pricing/",
+        "/contact/"
+      ]
+    },
+    {
+      "intent_category": "unblur-image",
+      "url_count": 11,
+      "sample_urls": [
+        "/blog/how-to-unblur-image-online/",
+        "/blog/tags/unblur-image/",
+        "/blog/tags/best-ai-unblur-image-tool/"
+      ]
+    },
+    {
+      "intent_category": "enhance-image",
+      "url_count": 9,
+      "sample_urls": [
+        "/blog/picsart-ai-image-enhancer-review/",
+        "/blog/tags/image-enhancer/",
+        "/blog/tags/enhance-image/"
+      ]
+    },
+    {
+      "intent_category": "restore-photo",
+      "url_count": 6,
+      "sample_urls": [
+        "/old-photo-restoration/",
+        "/blog/tags/old-photo-restoration/",
+        "/blog/tags/photo-restoration/"
+      ]
+    },
+    {
+      "intent_category": "blur-blur",
+      "url_count": 6,
+      "sample_urls": [
+        "/blur-remover/",
+        "/blur-to-clear/",
+        "/blog/tags/focus-blur/"
+      ]
+    },
+    {
+      "intent_category": "general-image",
+      "url_count": 6,
+      "sample_urls": [
+        "/blog/how-to-increase-image-resolution/",
+        "/blog/tags/blurry-image/",
+        "/blog/tags/ecommerce-images/"
+      ]
+    },
+    {
+      "intent_category": "upscale-image",
+      "url_count": 5,
+      "sample_urls": [
+        "/image-upscaler/",
+        "/blog/free-ai-image-upscaler/",
+        "/blog/tags/image-upscaler/"
+      ]
+    },
+    {
+      "intent_category": "remove-image",
+      "url_count": 5,
+      "sample_urls": [
+        "/blog/remove-noise-from-image/",
+        "/blog/tags/remove-blur-from-image/",
+        "/blog/how-to-batch-remove-image-blur/"
+      ]
+    },
+    {
+      "intent_category": "enhance-video",
+      "url_count": 4,
+      "sample_urls": [
+        "/video-enhancer/",
+        "/video-enhancer/",
+        "/blog/tags/video-enhancer/"
+      ]
+    },
+    {
+      "intent_category": "enhance-photo",
+      "url_count": 3,
+      "sample_urls": [
+        "/photo-enhancer/",
+        "/blog/free-ai-photo-enhancer/",
+        "/blog/tags/photo-enhancement/"
+      ]
+    },
+    {
+      "intent_category": "unblur-video",
+      "url_count": 3,
+      "sample_urls": [
+        "/unblur-video/",
+        "/blog/tags/unblur-video/",
+        "/blog/how-to-unblur-video/"
+      ]
+    },
+    {
+      "intent_category": "fix-image",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/tags/fix-blurry-image/",
+        "/blog/fix-pixlated-image-online-free/",
+        "/blog/how-to-fix-blurry-image/"
+      ]
+    },
+    {
+      "intent_category": "enhance-general",
+      "url_count": 2,
+      "sample_urls": [
+        "/sora-enhancer/",
+        "/blog/lets-enhance-review/"
+      ]
+    },
+    {
+      "intent_category": "upscale-video",
+      "url_count": 2,
+      "sample_urls": [
+        "/upscale-video/",
+        "/blog/upscale-video-online-free/"
+      ]
+    },
+    {
+      "intent_category": "enhance-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/text-enhancer/"
+      ]
+    },
+    {
+      "intent_category": "denoise-image",
+      "url_count": 1,
+      "sample_urls": [
+        "/denoise-image/"
+      ]
+    },
+    {
+      "intent_category": "convert-picture",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/change-resolution-of-a-picture/"
+      ]
+    },
+    {
+      "intent_category": "general-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/blurry-photo/"
+      ]
+    },
+    {
+      "intent_category": "remove-noise",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/remove-noise/"
+      ]
+    },
+    {
+      "intent_category": "unblur-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/unblur-photo/"
+      ]
+    },
+    {
+      "intent_category": "generate-image",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/how-to-make-image-clearer/"
+      ]
+    },
+    {
+      "intent_category": "convert-video",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/hd-video-converter/"
+      ]
+    },
+    {
+      "intent_category": "generate-picture",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/make-picture-less-blurry/"
+      ]
+    },
+    {
+      "intent_category": "convert-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/hd-photo-converter/"
+      ]
+    },
+    {
+      "intent_category": "unblur-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/unblur-text-online-free/"
+      ]
+    },
+    {
+      "intent_category": "fix-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/fix-blurry-photo/"
+      ]
+    },
+    {
+      "intent_category": "edit-photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/vance-ai-photo-editor-review/"
+      ]
+    },
+    {
+      "intent_category": "sharpen-image",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/how-to-unblur-sharpen-social-images/"
+      ]
+    },
+    {
+      "intent_category": "unblur-picture",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/make-blurry-picture-clear/"
+      ]
+    }
+  ],
+  "by_action_object": [
+    {
+      "action": "unknown",
+      "object": "unknown",
+      "url_count": 76,
+      "sample_urls": [
+        "/",
+        "/pricing/",
+        "/contact/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "image",
+      "url_count": 11,
+      "sample_urls": [
+        "/blog/how-to-unblur-image-online/",
+        "/blog/tags/unblur-image/",
+        "/blog/tags/best-ai-unblur-image-tool/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "image",
+      "url_count": 9,
+      "sample_urls": [
+        "/blog/picsart-ai-image-enhancer-review/",
+        "/blog/tags/image-enhancer/",
+        "/blog/tags/enhance-image/"
+      ]
+    },
+    {
+      "action": "restore",
+      "object": "photo",
+      "url_count": 6,
+      "sample_urls": [
+        "/old-photo-restoration/",
+        "/blog/tags/old-photo-restoration/",
+        "/blog/tags/photo-restoration/"
+      ]
+    },
+    {
+      "action": "blur",
+      "object": "blur",
+      "url_count": 6,
+      "sample_urls": [
+        "/blur-remover/",
+        "/blur-to-clear/",
+        "/blog/tags/focus-blur/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "image",
+      "url_count": 6,
+      "sample_urls": [
+        "/blog/how-to-increase-image-resolution/",
+        "/blog/tags/blurry-image/",
+        "/blog/tags/ecommerce-images/"
+      ]
+    },
+    {
+      "action": "upscale",
+      "object": "image",
+      "url_count": 5,
+      "sample_urls": [
+        "/image-upscaler/",
+        "/blog/free-ai-image-upscaler/",
+        "/blog/tags/image-upscaler/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "image",
+      "url_count": 5,
+      "sample_urls": [
+        "/blog/remove-noise-from-image/",
+        "/blog/tags/remove-blur-from-image/",
+        "/blog/how-to-batch-remove-image-blur/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "video",
+      "url_count": 4,
+      "sample_urls": [
+        "/video-enhancer/",
+        "/video-enhancer/",
+        "/blog/tags/video-enhancer/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "photo",
+      "url_count": 3,
+      "sample_urls": [
+        "/photo-enhancer/",
+        "/blog/free-ai-photo-enhancer/",
+        "/blog/tags/photo-enhancement/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "video",
+      "url_count": 3,
+      "sample_urls": [
+        "/unblur-video/",
+        "/blog/tags/unblur-video/",
+        "/blog/how-to-unblur-video/"
+      ]
+    },
+    {
+      "action": "fix",
+      "object": "image",
+      "url_count": 3,
+      "sample_urls": [
+        "/blog/tags/fix-blurry-image/",
+        "/blog/fix-pixlated-image-online-free/",
+        "/blog/how-to-fix-blurry-image/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "unknown",
+      "url_count": 2,
+      "sample_urls": [
+        "/sora-enhancer/",
+        "/blog/lets-enhance-review/"
+      ]
+    },
+    {
+      "action": "upscale",
+      "object": "video",
+      "url_count": 2,
+      "sample_urls": [
+        "/upscale-video/",
+        "/blog/upscale-video-online-free/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/text-enhancer/"
+      ]
+    },
+    {
+      "action": "denoise",
+      "object": "image",
+      "url_count": 1,
+      "sample_urls": [
+        "/denoise-image/"
+      ]
+    },
+    {
+      "action": "convert",
+      "object": "picture",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/change-resolution-of-a-picture/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/blurry-photo/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "noise",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/remove-noise/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/tags/unblur-photo/"
+      ]
+    },
+    {
+      "action": "generate",
+      "object": "image",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/how-to-make-image-clearer/"
+      ]
+    },
+    {
+      "action": "convert",
+      "object": "video",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/hd-video-converter/"
+      ]
+    },
+    {
+      "action": "generate",
+      "object": "picture",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/make-picture-less-blurry/"
+      ]
+    },
+    {
+      "action": "convert",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/hd-photo-converter/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/unblur-text-online-free/"
+      ]
+    },
+    {
+      "action": "fix",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/fix-blurry-photo/"
+      ]
+    },
+    {
+      "action": "edit",
+      "object": "photo",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/vance-ai-photo-editor-review/"
+      ]
+    },
+    {
+      "action": "sharpen",
+      "object": "image",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/how-to-unblur-sharpen-social-images/"
+      ]
+    },
+    {
+      "action": "unblur",
+      "object": "picture",
+      "url_count": 1,
+      "sample_urls": [
+        "/blog/make-blurry-picture-clear/"
+      ]
+    }
+  ],
+  "total_urls": 156,
+  "coverage_percentage": 51.28,
+  "directory_tree": {
+    "name": "/",
+    "path": "/",
+    "count": 156,
+    "children": [
+      {
+        "name": "blog",
+        "path": "/blog/",
+        "count": 114,
+        "children": [
+          {
+            "name": "tags",
+            "path": "/tags/",
+            "count": 36,
+            "children": [
+              {
+                "name": "unblur-image",
+                "path": "/tags/unblur-image/",
+                "count": 6,
+                "children": [
+                  {
+                    "name": "page-2",
+                    "path": "/page-2/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/unblur-image/page-2/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-3",
+                    "path": "/page-3/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/unblur-image/page-3/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-4",
+                    "path": "/page-4/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/unblur-image/page-4/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-5",
+                    "path": "/page-5/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/unblur-image/page-5/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-6",
+                    "path": "/page-6/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/unblur-image/page-6/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  }
+                ],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/unblur-image/",
+                    "action": "unblur",
+                    "object": "image",
+                    "intent_category": "unblur-image",
+                    "notes": "Make blurry image clear and readable."
+                  }
+                ]
+              },
+              {
+                "name": "image-enhancer",
+                "path": "/image-enhancer/",
+                "count": 5,
+                "children": [
+                  {
+                    "name": "page-2",
+                    "path": "/page-2/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/image-enhancer/page-2/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-3",
+                    "path": "/page-3/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/image-enhancer/page-3/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-4",
+                    "path": "/page-4/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/image-enhancer/page-4/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "page-5",
+                    "path": "/page-5/",
+                    "count": 1,
+                    "children": [],
+                    "records": [
+                      {
+                        "url": "https://unblurimage.ai/blog/tags/image-enhancer/page-5/",
+                        "action": "",
+                        "object": "",
+                        "intent_category": "unknown",
+                        "notes": ""
+                      }
+                    ]
+                  }
+                ],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/image-enhancer/",
+                    "action": "enhance",
+                    "object": "image",
+                    "intent_category": "enhance-image",
+                    "notes": "Improve quality of the image (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "photo-enhancement",
+                "path": "/photo-enhancement/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/photo-enhancement/",
+                    "action": "enhance",
+                    "object": "photo",
+                    "intent_category": "enhance-photo",
+                    "notes": "Improve quality of the photo (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "unblur-video",
+                "path": "/unblur-video/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/unblur-video/",
+                    "action": "unblur",
+                    "object": "video",
+                    "intent_category": "unblur-video",
+                    "notes": "Make blurry video clear and readable."
+                  }
+                ]
+              },
+              {
+                "name": "video-enhancer",
+                "path": "/video-enhancer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/video-enhancer/",
+                    "action": "enhance",
+                    "object": "video",
+                    "intent_category": "enhance-video",
+                    "notes": "Improve quality of the video (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "image-upscaler",
+                "path": "/image-upscaler/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/image-upscaler/",
+                    "action": "upscale",
+                    "object": "image",
+                    "intent_category": "upscale-image",
+                    "notes": "Increase resolution/size of the image without losing quality."
+                  }
+                ]
+              },
+              {
+                "name": "old-photo-restoration",
+                "path": "/old-photo-restoration/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/old-photo-restoration/",
+                    "action": "restore",
+                    "object": "photo",
+                    "intent_category": "restore-photo",
+                    "notes": "Restore damaged or old photo."
+                  }
+                ]
+              },
+              {
+                "name": "best-ai-unblur-image-tool",
+                "path": "/best-ai-unblur-image-tool/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/best-ai-unblur-image-tool/",
+                    "action": "unblur",
+                    "object": "image",
+                    "intent_category": "unblur-image",
+                    "notes": "Make blurry image clear and readable."
+                  }
+                ]
+              },
+              {
+                "name": "enhance-image",
+                "path": "/enhance-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/enhance-image/",
+                    "action": "enhance",
+                    "object": "image",
+                    "intent_category": "enhance-image",
+                    "notes": "Improve quality of the image (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "ai-image-enhancer",
+                "path": "/ai-image-enhancer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/ai-image-enhancer/",
+                    "action": "enhance",
+                    "object": "image",
+                    "intent_category": "enhance-image",
+                    "notes": "Improve quality of the image (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "photo-restoration",
+                "path": "/photo-restoration/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/photo-restoration/",
+                    "action": "restore",
+                    "object": "photo",
+                    "intent_category": "restore-photo",
+                    "notes": "Restore damaged or old photo."
+                  }
+                ]
+              },
+              {
+                "name": "focus-blur",
+                "path": "/focus-blur/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/focus-blur/",
+                    "action": "blur",
+                    "object": "blur",
+                    "intent_category": "blur-blur",
+                    "notes": "Apply blur to the blur for focus or privacy."
+                  }
+                ]
+              },
+              {
+                "name": "motion-blur",
+                "path": "/motion-blur/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/motion-blur/",
+                    "action": "blur",
+                    "object": "blur",
+                    "intent_category": "blur-blur",
+                    "notes": "Apply blur to the blur for focus or privacy."
+                  }
+                ]
+              },
+              {
+                "name": "fix-blurry-image",
+                "path": "/fix-blurry-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/fix-blurry-image/",
+                    "action": "fix",
+                    "object": "image",
+                    "intent_category": "fix-image",
+                    "notes": "Fix defects in the image."
+                  }
+                ]
+              },
+              {
+                "name": "image-enhancement",
+                "path": "/image-enhancement/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/image-enhancement/",
+                    "action": "enhance",
+                    "object": "image",
+                    "intent_category": "enhance-image",
+                    "notes": "Improve quality of the image (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "remove-blur-from-image",
+                "path": "/remove-blur-from-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/remove-blur-from-image/",
+                    "action": "remove",
+                    "object": "image",
+                    "intent_category": "remove-image",
+                    "notes": "Remove unwanted parts or artifacts from the image."
+                  }
+                ]
+              },
+              {
+                "name": "blurry-image",
+                "path": "/blurry-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/blurry-image/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              },
+              {
+                "name": "blurry-photo",
+                "path": "/blurry-photo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/blurry-photo/",
+                    "action": "",
+                    "object": "photo",
+                    "intent_category": "general-photo",
+                    "notes": "photo related utility."
+                  }
+                ]
+              },
+              {
+                "name": "ai-deblurring",
+                "path": "/ai-deblurring/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/ai-deblurring/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "super-resolution",
+                "path": "/super-resolution/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/super-resolution/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "remove-noise",
+                "path": "/remove-noise/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/remove-noise/",
+                    "action": "remove",
+                    "object": "noise",
+                    "intent_category": "remove-noise",
+                    "notes": "Remove unwanted parts or artifacts from the noise."
+                  }
+                ]
+              },
+              {
+                "name": "unblur-photo",
+                "path": "/unblur-photo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/unblur-photo/",
+                    "action": "unblur",
+                    "object": "photo",
+                    "intent_category": "unblur-photo",
+                    "notes": "Make blurry photo clear and readable."
+                  }
+                ]
+              },
+              {
+                "name": "ai-image-upscaler",
+                "path": "/ai-image-upscaler/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/ai-image-upscaler/",
+                    "action": "upscale",
+                    "object": "image",
+                    "intent_category": "upscale-image",
+                    "notes": "Increase resolution/size of the image without losing quality."
+                  }
+                ]
+              },
+              {
+                "name": "restore-old-photo",
+                "path": "/restore-old-photo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/restore-old-photo/",
+                    "action": "restore",
+                    "object": "photo",
+                    "intent_category": "restore-photo",
+                    "notes": "Restore damaged or old photo."
+                  }
+                ]
+              },
+              {
+                "name": "ecommerce-images",
+                "path": "/ecommerce-images/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/ecommerce-images/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              },
+              {
+                "name": "enhance-low-resolution-image",
+                "path": "/enhance-low-resolution-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/enhance-low-resolution-image/",
+                    "action": "enhance",
+                    "object": "image",
+                    "intent_category": "enhance-image",
+                    "notes": "Improve quality of the image (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "ai-image-unblurry",
+                "path": "/ai-image-unblurry/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tags/ai-image-unblurry/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "tag",
+            "path": "/tag/",
+            "count": 28,
+            "children": [
+              {
+                "name": "unblur%20image",
+                "path": "/tag/unblur%20image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/unblur%20image/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "image%20upscaler",
+                "path": "/image%20upscaler/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/image%20upscaler/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "image%20enhancer",
+                "path": "/image%20enhancer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/image%20enhancer/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "image-upscaler",
+                "path": "/image-upscaler/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/image-upscaler/",
+                    "action": "upscale",
+                    "object": "image",
+                    "intent_category": "upscale-image",
+                    "notes": "Increase resolution/size of the image without losing quality."
+                  }
+                ]
+              },
+              {
+                "name": "unblur%20video",
+                "path": "/unblur%20video/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/unblur%20video/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "video%20enhancer",
+                "path": "/video%20enhancer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/video%20enhancer/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "focus%20blur",
+                "path": "/focus%20blur/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/focus%20blur/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "motion%20blur",
+                "path": "/motion%20blur/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/motion%20blur/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "fix%20blurry%20image",
+                "path": "/fix%20blurry%20image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/fix%20blurry%20image/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "image%20enhancement",
+                "path": "/image%20enhancement/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/image%20enhancement/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "remove%20blur%20from%20image",
+                "path": "/remove%20blur%20from%20image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/remove%20blur%20from%20image/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "blurry%20image",
+                "path": "/blurry%20image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/blurry%20image/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "blurry%20photo",
+                "path": "/blurry%20photo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/blurry%20photo/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ai%20deblurring",
+                "path": "/ai%20deblurring/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/ai%20deblurring/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "super%20resolution",
+                "path": "/super%20resolution/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/super%20resolution/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "remove%20noise",
+                "path": "/remove%20noise/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/remove%20noise/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "photo%20enhancement",
+                "path": "/photo%20enhancement/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/photo%20enhancement/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "unblur%20photo",
+                "path": "/unblur%20photo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/unblur%20photo/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ai%20image%20upscaler",
+                "path": "/ai%20image%20upscaler/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/ai%20image%20upscaler/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "old%20photo%20restoration",
+                "path": "/old%20photo%20restoration/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/old%20photo%20restoration/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "restore%20old%20photo",
+                "path": "/restore%20old%20photo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/restore%20old%20photo/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "best%20ai%20unblur%20image%20tool",
+                "path": "/best%20ai%20unblur%20image%20tool/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/best%20ai%20unblur%20image%20tool/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "enhance%20image",
+                "path": "/enhance%20image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/enhance%20image/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ai%20image%20unblurry",
+                "path": "/ai%20image%20unblurry/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/ai%20image%20unblurry/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ai%20image%20enhancer",
+                "path": "/ai%20image%20enhancer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/ai%20image%20enhancer/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "photo%20restoration",
+                "path": "/photo%20restoration/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/photo%20restoration/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ecommerce%20images",
+                "path": "/ecommerce%20images/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/ecommerce%20images/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "enhance%20low-resolution%20image",
+                "path": "/enhance%20low-resolution%20image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/tag/enhance%20low-resolution%20image/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "change-resolution-of-a-picture",
+            "path": "/blog/change-resolution-of-a-picture/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/change-resolution-of-a-picture/",
+                "action": "convert",
+                "object": "picture",
+                "intent_category": "convert-picture",
+                "notes": "Convert the picture between formats."
+              }
+            ]
+          },
+          {
+            "name": "picsart-ai-image-enhancer-review",
+            "path": "/picsart-ai-image-enhancer-review/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/picsart-ai-image-enhancer-review/",
+                "action": "enhance",
+                "object": "image",
+                "intent_category": "enhance-image",
+                "notes": "Improve quality of the image (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "free-ai-image-upscaler",
+            "path": "/free-ai-image-upscaler/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/free-ai-image-upscaler/",
+                "action": "upscale",
+                "object": "image",
+                "intent_category": "upscale-image",
+                "notes": "Increase resolution/size of the image without losing quality."
+              }
+            ]
+          },
+          {
+            "name": "free-ai-photo-enhancer",
+            "path": "/free-ai-photo-enhancer/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/free-ai-photo-enhancer/",
+                "action": "enhance",
+                "object": "photo",
+                "intent_category": "enhance-photo",
+                "notes": "Improve quality of the photo (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "how-to-unblur-image-online",
+            "path": "/how-to-unblur-image-online/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-unblur-image-online/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "how-to-increase-image-resolution",
+            "path": "/how-to-increase-image-resolution/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-increase-image-resolution/",
+                "action": "",
+                "object": "image",
+                "intent_category": "general-image",
+                "notes": "image related utility."
+              }
+            ]
+          },
+          {
+            "name": "remove-noise-from-image",
+            "path": "/remove-noise-from-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/remove-noise-from-image/",
+                "action": "remove",
+                "object": "image",
+                "intent_category": "remove-image",
+                "notes": "Remove unwanted parts or artifacts from the image."
+              }
+            ]
+          },
+          {
+            "name": "upscale-video-online-free",
+            "path": "/upscale-video-online-free/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/upscale-video-online-free/",
+                "action": "upscale",
+                "object": "video",
+                "intent_category": "upscale-video",
+                "notes": "Increase resolution/size of the video without losing quality."
+              }
+            ]
+          },
+          {
+            "name": "author",
+            "path": "/author/",
+            "count": 1,
+            "children": [
+              {
+                "name": "unblurimage.ai",
+                "path": "/author/unblurimage.ai/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://unblurimage.ai/blog/author/unblurimage.ai/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "enhance-blurry-video-free",
+            "path": "/enhance-blurry-video-free/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/enhance-blurry-video-free/",
+                "action": "enhance",
+                "object": "video",
+                "intent_category": "enhance-video",
+                "notes": "Improve quality of the video (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "focus-and-motion-blur-difference",
+            "path": "/focus-and-motion-blur-difference/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/focus-and-motion-blur-difference/",
+                "action": "blur",
+                "object": "blur",
+                "intent_category": "blur-blur",
+                "notes": "Apply blur to the blur for focus or privacy."
+              }
+            ]
+          },
+          {
+            "name": "page-2",
+            "path": "/page-2/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/page-2/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "page-3",
+            "path": "/page-3/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/page-3/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "page-4",
+            "path": "/page-4/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/page-4/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "page-5",
+            "path": "/page-5/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/page-5/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "page-6",
+            "path": "/page-6/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/page-6/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "page-7",
+            "path": "/page-7/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/page-7/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "turn-old-family-photos-into-hd-memories",
+            "path": "/turn-old-family-photos-into-hd-memories/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/turn-old-family-photos-into-hd-memories/",
+                "action": "",
+                "object": "image",
+                "intent_category": "general-image",
+                "notes": "image related utility."
+              }
+            ]
+          },
+          {
+            "name": "fix-pixlated-image-online-free",
+            "path": "/fix-pixlated-image-online-free/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/fix-pixlated-image-online-free/",
+                "action": "fix",
+                "object": "image",
+                "intent_category": "fix-image",
+                "notes": "Fix defects in the image."
+              }
+            ]
+          },
+          {
+            "name": "how-to-batch-remove-image-blur",
+            "path": "/how-to-batch-remove-image-blur/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-batch-remove-image-blur/",
+                "action": "remove",
+                "object": "image",
+                "intent_category": "remove-image",
+                "notes": "Remove unwanted parts or artifacts from the image."
+              }
+            ]
+          },
+          {
+            "name": "how-to-remove-blur-from-image",
+            "path": "/how-to-remove-blur-from-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-remove-blur-from-image/",
+                "action": "remove",
+                "object": "image",
+                "intent_category": "remove-image",
+                "notes": "Remove unwanted parts or artifacts from the image."
+              }
+            ]
+          },
+          {
+            "name": "how-to-make-image-clearer",
+            "path": "/how-to-make-image-clearer/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-make-image-clearer/",
+                "action": "generate",
+                "object": "image",
+                "intent_category": "generate-image",
+                "notes": "Generate new image from prompts or source assets."
+              }
+            ]
+          },
+          {
+            "name": "why-are-my-photos-blurry",
+            "path": "/why-are-my-photos-blurry/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/why-are-my-photos-blurry/",
+                "action": "",
+                "object": "image",
+                "intent_category": "general-image",
+                "notes": "image related utility."
+              }
+            ]
+          },
+          {
+            "name": "how-to-unblur-video",
+            "path": "/how-to-unblur-video/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-unblur-video/",
+                "action": "unblur",
+                "object": "video",
+                "intent_category": "unblur-video",
+                "notes": "Make blurry video clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "picwish-unblur-image-editor-review",
+            "path": "/picwish-unblur-image-editor-review/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/picwish-unblur-image-editor-review/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "hd-video-converter",
+            "path": "/hd-video-converter/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/hd-video-converter/",
+                "action": "convert",
+                "object": "video",
+                "intent_category": "convert-video",
+                "notes": "Convert the video between formats."
+              }
+            ]
+          },
+          {
+            "name": "top-10-unblur-image-ai-tool",
+            "path": "/top-10-unblur-image-ai-tool/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/top-10-unblur-image-ai-tool/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "best-ai-unblur-image-tool",
+            "path": "/best-ai-unblur-image-tool/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/best-ai-unblur-image-tool/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "unblur-image-online-free",
+            "path": "/unblur-image-online-free/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/unblur-image-online-free/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "free-unblur-image-online",
+            "path": "/free-unblur-image-online/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/free-unblur-image-online/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "focus-blur-vs-motion-blur",
+            "path": "/focus-blur-vs-motion-blur/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/focus-blur-vs-motion-blur/",
+                "action": "blur",
+                "object": "blur",
+                "intent_category": "blur-blur",
+                "notes": "Apply blur to the blur for focus or privacy."
+              }
+            ]
+          },
+          {
+            "name": "how-to-fix-blurry-image",
+            "path": "/how-to-fix-blurry-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-fix-blurry-image/",
+                "action": "fix",
+                "object": "image",
+                "intent_category": "fix-image",
+                "notes": "Fix defects in the image."
+              }
+            ]
+          },
+          {
+            "name": "ai-image-enhancer-for-ecommerce",
+            "path": "/ai-image-enhancer-for-ecommerce/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/ai-image-enhancer-for-ecommerce/",
+                "action": "enhance",
+                "object": "image",
+                "intent_category": "enhance-image",
+                "notes": "Improve quality of the image (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "how-to-restore-old-photo",
+            "path": "/how-to-restore-old-photo/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-restore-old-photo/",
+                "action": "restore",
+                "object": "photo",
+                "intent_category": "restore-photo",
+                "notes": "Restore damaged or old photo."
+              }
+            ]
+          },
+          {
+            "name": "unblur-low-resolution-image",
+            "path": "/unblur-low-resolution-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/unblur-low-resolution-image/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "make-picture-less-blurry",
+            "path": "/make-picture-less-blurry/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/make-picture-less-blurry/",
+                "action": "generate",
+                "object": "picture",
+                "intent_category": "generate-picture",
+                "notes": "Generate new picture from prompts or source assets."
+              }
+            ]
+          },
+          {
+            "name": "free-no-signup-unlimited-image-enhancer",
+            "path": "/free-no-signup-unlimited-image-enhancer/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/free-no-signup-unlimited-image-enhancer/",
+                "action": "enhance",
+                "object": "image",
+                "intent_category": "enhance-image",
+                "notes": "Improve quality of the image (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "remove-background-save-in-hd-image",
+            "path": "/remove-background-save-in-hd-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/remove-background-save-in-hd-image/",
+                "action": "remove",
+                "object": "image",
+                "intent_category": "remove-image",
+                "notes": "Remove unwanted parts or artifacts from the image."
+              }
+            ]
+          },
+          {
+            "name": "hd-photo-converter",
+            "path": "/hd-photo-converter/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/hd-photo-converter/",
+                "action": "convert",
+                "object": "photo",
+                "intent_category": "convert-photo",
+                "notes": "Convert the photo between formats."
+              }
+            ]
+          },
+          {
+            "name": "unblur-text-online-free",
+            "path": "/unblur-text-online-free/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/unblur-text-online-free/",
+                "action": "unblur",
+                "object": "text",
+                "intent_category": "unblur-text",
+                "notes": "Make blurry text clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "fix-blurry-photo",
+            "path": "/fix-blurry-photo/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/fix-blurry-photo/",
+                "action": "fix",
+                "object": "photo",
+                "intent_category": "fix-photo",
+                "notes": "Fix defects in the photo."
+              }
+            ]
+          },
+          {
+            "name": "vance-ai-photo-editor-review",
+            "path": "/vance-ai-photo-editor-review/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/vance-ai-photo-editor-review/",
+                "action": "edit",
+                "object": "photo",
+                "intent_category": "edit-photo",
+                "notes": "photo related utility."
+              }
+            ]
+          },
+          {
+            "name": "lets-enhance-review",
+            "path": "/lets-enhance-review/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/lets-enhance-review/",
+                "action": "enhance",
+                "object": "",
+                "intent_category": "enhance-general",
+                "notes": "Improve quality of the content (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "how-to-unblur-sharpen-social-images",
+            "path": "/how-to-unblur-sharpen-social-images/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/how-to-unblur-sharpen-social-images/",
+                "action": "sharpen",
+                "object": "image",
+                "intent_category": "sharpen-image",
+                "notes": "Sharpen edges/details in the image."
+              }
+            ]
+          },
+          {
+            "name": "unblur-midjourney-image",
+            "path": "/unblur-midjourney-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/unblur-midjourney-image/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "old-photo-restoration-online-free",
+            "path": "/old-photo-restoration-online-free/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/old-photo-restoration-online-free/",
+                "action": "restore",
+                "object": "photo",
+                "intent_category": "restore-photo",
+                "notes": "Restore damaged or old photo."
+              }
+            ]
+          },
+          {
+            "name": "enhance-text-image",
+            "path": "/enhance-text-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/enhance-text-image/",
+                "action": "enhance",
+                "object": "image",
+                "intent_category": "enhance-image",
+                "notes": "Improve quality of the image (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "unblur-image-iphone",
+            "path": "/unblur-image-iphone/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/unblur-image-iphone/",
+                "action": "unblur",
+                "object": "image",
+                "intent_category": "unblur-image",
+                "notes": "Make blurry image clear and readable."
+              }
+            ]
+          },
+          {
+            "name": "make-blurry-picture-clear",
+            "path": "/make-blurry-picture-clear/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://unblurimage.ai/blog/make-blurry-picture-clear/",
+                "action": "unblur",
+                "object": "picture",
+                "intent_category": "unblur-picture",
+                "notes": "Make blurry picture clear and readable."
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/blog/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "video-enhancer",
+        "path": "/video-enhancer/",
+        "count": 2,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/video-enhancer/",
+            "action": "enhance",
+            "object": "video",
+            "intent_category": "enhance-video",
+            "notes": "Improve quality of the video (sharpness, contrast, detail)."
+          },
+          {
+            "url": "https://unblurimage.ai/video-enhancer/",
+            "action": "enhance",
+            "object": "video",
+            "intent_category": "enhance-video",
+            "notes": "Improve quality of the video (sharpness, contrast, detail)."
+          }
+        ]
+      },
+      {
+        "name": "text-enhancer",
+        "path": "/text-enhancer/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/text-enhancer/",
+            "action": "enhance",
+            "object": "text",
+            "intent_category": "enhance-text",
+            "notes": "Improve quality of the text (sharpness, contrast, detail)."
+          }
+        ]
+      },
+      {
+        "name": "image-upscaler",
+        "path": "/image-upscaler/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/image-upscaler/",
+            "action": "upscale",
+            "object": "image",
+            "intent_category": "upscale-image",
+            "notes": "Increase resolution/size of the image without losing quality."
+          }
+        ]
+      },
+      {
+        "name": "photo-enhancer",
+        "path": "/photo-enhancer/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/photo-enhancer/",
+            "action": "enhance",
+            "object": "photo",
+            "intent_category": "enhance-photo",
+            "notes": "Improve quality of the photo (sharpness, contrast, detail)."
+          }
+        ]
+      },
+      {
+        "name": "old-photo-restoration",
+        "path": "/old-photo-restoration/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/old-photo-restoration/",
+            "action": "restore",
+            "object": "photo",
+            "intent_category": "restore-photo",
+            "notes": "Restore damaged or old photo."
+          }
+        ]
+      },
+      {
+        "name": "blur-remover",
+        "path": "/blur-remover/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/blur-remover/",
+            "action": "blur",
+            "object": "blur",
+            "intent_category": "blur-blur",
+            "notes": "Apply blur to the blur for focus or privacy."
+          }
+        ]
+      },
+      {
+        "name": "blur-to-clear",
+        "path": "/blur-to-clear/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/blur-to-clear/",
+            "action": "blur",
+            "object": "blur",
+            "intent_category": "blur-blur",
+            "notes": "Apply blur to the blur for focus or privacy."
+          }
+        ]
+      },
+      {
+        "name": "denoise-image",
+        "path": "/denoise-image/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/denoise-image/",
+            "action": "denoise",
+            "object": "image",
+            "intent_category": "denoise-image",
+            "notes": "Reduce noise/grain in the image."
+          }
+        ]
+      },
+      {
+        "name": "sora-enhancer",
+        "path": "/sora-enhancer/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/sora-enhancer/",
+            "action": "enhance",
+            "object": "",
+            "intent_category": "enhance-general",
+            "notes": "Improve quality of the content (sharpness, contrast, detail)."
+          }
+        ]
+      },
+      {
+        "name": "upscale-video",
+        "path": "/upscale-video/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/upscale-video/",
+            "action": "upscale",
+            "object": "video",
+            "intent_category": "upscale-video",
+            "notes": "Increase resolution/size of the video without losing quality."
+          }
+        ]
+      },
+      {
+        "name": "unblur-video",
+        "path": "/unblur-video/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/unblur-video/",
+            "action": "unblur",
+            "object": "video",
+            "intent_category": "unblur-video",
+            "notes": "Make blurry video clear and readable."
+          }
+        ]
+      },
+      {
+        "name": "pricing",
+        "path": "/pricing/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/pricing/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "contact",
+        "path": "/contact/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/contact/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "terms-of-service",
+        "path": "/terms-of-service/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/terms-of-service/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "privacy-policy",
+        "path": "/privacy-policy/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/privacy-policy/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "bn",
+        "path": "/bn/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/bn/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "de",
+        "path": "/de/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/de/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "el",
+        "path": "/el/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/el/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "es",
+        "path": "/es/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/es/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "fr",
+        "path": "/fr/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/fr/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "hi",
+        "path": "/hi/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/hi/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "hu",
+        "path": "/hu/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/hu/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "id",
+        "path": "/id/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/id/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "it",
+        "path": "/it/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/it/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ja",
+        "path": "/ja/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/ja/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ko",
+        "path": "/ko/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/ko/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ms",
+        "path": "/ms/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/ms/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "nl",
+        "path": "/nl/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/nl/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "pl",
+        "path": "/pl/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/pl/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "pt",
+        "path": "/pt/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/pt/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ru",
+        "path": "/ru/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/ru/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "th",
+        "path": "/th/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/th/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "tr",
+        "path": "/tr/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/tr/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "uk",
+        "path": "/uk/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/uk/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "vi",
+        "path": "/vi/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/vi/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "zh-TW",
+        "path": "/zh-TW/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/zh-TW/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "zh",
+        "path": "/zh/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/zh/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "legal-notice",
+        "path": "/legal-notice/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/legal-notice/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "history",
+        "path": "/history/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://unblurimage.ai/history/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "records": [
+      {
+        "url": "https://unblurimage.ai/",
+        "action": "",
+        "object": "",
+        "intent_category": "unknown",
+        "notes": ""
+      },
+      {
+        "url": "https://www.unblurimage.ai/",
+        "action": "",
+        "object": "",
+        "intent_category": "unknown",
+        "notes": ""
+      }
+    ]
+  }
+}

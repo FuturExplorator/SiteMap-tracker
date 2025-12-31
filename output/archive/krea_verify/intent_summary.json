@@ -1,0 +1,3732 @@
+{
+  "by_intent_category": [
+    {
+      "intent_category": "unknown",
+      "url_count": 195,
+      "sample_urls": [
+        "/",
+        "/app/",
+        "/"
+      ]
+    },
+    {
+      "intent_category": "general-image",
+      "url_count": 16,
+      "sample_urls": [
+        "/image/",
+        "/image/",
+        "/image/"
+      ]
+    },
+    {
+      "intent_category": "general-video",
+      "url_count": 10,
+      "sample_urls": [
+        "/video/",
+        "/video-restyle/",
+        "/video/"
+      ]
+    },
+    {
+      "intent_category": "enhance-general",
+      "url_count": 7,
+      "sample_urls": [
+        "/enhancer/",
+        "/features/ai-enhancer/",
+        "/enhancer/"
+      ]
+    },
+    {
+      "intent_category": "edit-general",
+      "url_count": 4,
+      "sample_urls": [
+        "/edit/",
+        "/apps/edit/nano-banana-edit/",
+        "/user-guide/features/edit/"
+      ]
+    },
+    {
+      "intent_category": "remove-general",
+      "url_count": 4,
+      "sample_urls": [
+        "/apps/edit/remove-object/",
+        "/api-reference/general/delete-a-job-by-id/",
+        "/api-reference/assets/delete-an-asset/"
+      ]
+    },
+    {
+      "intent_category": "generate-image",
+      "url_count": 2,
+      "sample_urls": [
+        "/features/ai-image-generator/",
+        "/articles/ai-image-generators-2025/"
+      ]
+    },
+    {
+      "intent_category": "convert-general",
+      "url_count": 2,
+      "sample_urls": [
+        "/apps/edit/change-lighting/",
+        "/apps/edit/change-clothes/"
+      ]
+    },
+    {
+      "intent_category": "generate-video",
+      "url_count": 1,
+      "sample_urls": [
+        "/features/ai-video-generator/"
+      ]
+    },
+    {
+      "intent_category": "upscale-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/features/ai-upscaler/"
+      ]
+    },
+    {
+      "intent_category": "generate-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/image/t-shirt-design-maker/"
+      ]
+    },
+    {
+      "intent_category": "remove-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/remove-text/"
+      ]
+    },
+    {
+      "intent_category": "colorize-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/colorize/"
+      ]
+    },
+    {
+      "intent_category": "edit-image",
+      "url_count": 1,
+      "sample_urls": [
+        "/features/ai-image-editor/"
+      ]
+    },
+    {
+      "intent_category": "general-poster",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/movie-poster/"
+      ]
+    },
+    {
+      "intent_category": "general-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/developers/examples/text-to-video/"
+      ]
+    }
+  ],
+  "by_action_object": [
+    {
+      "action": "unknown",
+      "object": "unknown",
+      "url_count": 195,
+      "sample_urls": [
+        "/",
+        "/app/",
+        "/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "image",
+      "url_count": 16,
+      "sample_urls": [
+        "/image/",
+        "/image/",
+        "/image/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "video",
+      "url_count": 10,
+      "sample_urls": [
+        "/video/",
+        "/video-restyle/",
+        "/video/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "unknown",
+      "url_count": 7,
+      "sample_urls": [
+        "/enhancer/",
+        "/features/ai-enhancer/",
+        "/enhancer/"
+      ]
+    },
+    {
+      "action": "edit",
+      "object": "unknown",
+      "url_count": 4,
+      "sample_urls": [
+        "/edit/",
+        "/apps/edit/nano-banana-edit/",
+        "/user-guide/features/edit/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "unknown",
+      "url_count": 4,
+      "sample_urls": [
+        "/apps/edit/remove-object/",
+        "/api-reference/general/delete-a-job-by-id/",
+        "/api-reference/assets/delete-an-asset/"
+      ]
+    },
+    {
+      "action": "generate",
+      "object": "image",
+      "url_count": 2,
+      "sample_urls": [
+        "/features/ai-image-generator/",
+        "/articles/ai-image-generators-2025/"
+      ]
+    },
+    {
+      "action": "convert",
+      "object": "unknown",
+      "url_count": 2,
+      "sample_urls": [
+        "/apps/edit/change-lighting/",
+        "/apps/edit/change-clothes/"
+      ]
+    },
+    {
+      "action": "generate",
+      "object": "video",
+      "url_count": 1,
+      "sample_urls": [
+        "/features/ai-video-generator/"
+      ]
+    },
+    {
+      "action": "upscale",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/features/ai-upscaler/"
+      ]
+    },
+    {
+      "action": "generate",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/image/t-shirt-design-maker/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/remove-text/"
+      ]
+    },
+    {
+      "action": "colorize",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/colorize/"
+      ]
+    },
+    {
+      "action": "edit",
+      "object": "image",
+      "url_count": 1,
+      "sample_urls": [
+        "/features/ai-image-editor/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "poster",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/movie-poster/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/developers/examples/text-to-video/"
+      ]
+    }
+  ],
+  "total_urls": 248,
+  "coverage_percentage": 21.37,
+  "directory_tree": {
+    "name": "/",
+    "path": "/",
+    "count": 248,
+    "children": [
+      {
+        "name": "api-reference",
+        "path": "/api-reference/",
+        "count": 62,
+        "children": [
+          {
+            "name": "video",
+            "path": "/video/",
+            "count": 26,
+            "children": [
+              {
+                "name": "kling-10",
+                "path": "/video/kling-10/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/kling-10/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "kling-15",
+                "path": "/kling-15/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/kling-15/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "kling-16",
+                "path": "/kling-16/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/kling-16/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "kling-20",
+                "path": "/kling-20/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/kling-20/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "kling-21",
+                "path": "/kling-21/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/kling-21/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "kling-25",
+                "path": "/kling-25/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/kling-25/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "hailuo",
+                "path": "/hailuo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/hailuo/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "hailuo-02",
+                "path": "/hailuo-02/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/hailuo-02/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "hailuo-23",
+                "path": "/hailuo-23/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/hailuo-23/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "hailuo-23-fast",
+                "path": "/hailuo-23-fast/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/hailuo-23-fast/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "pika-22",
+                "path": "/pika-22/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/pika-22/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "wan-21",
+                "path": "/wan-21/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/wan-21/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "wan-22",
+                "path": "/wan-22/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/wan-22/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "wan-25",
+                "path": "/wan-25/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/wan-25/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo-2",
+                "path": "/veo-2/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/veo-2/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo-3",
+                "path": "/veo-3/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/veo-3/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo-3-fast",
+                "path": "/veo-3-fast/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/veo-3-fast/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo-31",
+                "path": "/veo-31/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/veo-31/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo-31-fast",
+                "path": "/veo-31-fast/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/veo-31-fast/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "seedance-lite",
+                "path": "/seedance-lite/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/seedance-lite/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "seedance-pro",
+                "path": "/seedance-pro/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/seedance-pro/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "seedance-pro-fast",
+                "path": "/seedance-pro-fast/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/seedance-pro-fast/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ray-2",
+                "path": "/ray-2/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/ray-2/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "runway-gen-3",
+                "path": "/runway-gen-3/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/runway-gen-3/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "runway-gen-4",
+                "path": "/runway-gen-4/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/runway-gen-4/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "runway-aleph",
+                "path": "/runway-aleph/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/video/runway-aleph/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "image",
+            "path": "/image/",
+            "count": 17,
+            "children": [
+              {
+                "name": "flux",
+                "path": "/image/flux/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/flux/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "flux-kontext",
+                "path": "/flux-kontext/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/flux-kontext/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "nano-banana-pro",
+                "path": "/nano-banana-pro/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/nano-banana-pro/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "nano-banana",
+                "path": "/nano-banana/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/nano-banana/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "flux-11-pro",
+                "path": "/flux-11-pro/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/flux-11-pro/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "flux-11-pro-ultra",
+                "path": "/flux-11-pro-ultra/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/flux-11-pro-ultra/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ideogram-20a-turbo",
+                "path": "/ideogram-20a-turbo/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/ideogram-20a-turbo/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ideogram-30",
+                "path": "/ideogram-30/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/ideogram-30/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "imagen-3",
+                "path": "/imagen-3/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/imagen-3/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "imagen-4",
+                "path": "/imagen-4/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/imagen-4/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "imagen-4-fast",
+                "path": "/imagen-4-fast/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/imagen-4-fast/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "imagen-4-ultra",
+                "path": "/imagen-4-ultra/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/imagen-4-ultra/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "runway-gen-4",
+                "path": "/runway-gen-4/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/runway-gen-4/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "chatgpt-image",
+                "path": "/chatgpt-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/chatgpt-image/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              },
+              {
+                "name": "seedream-3",
+                "path": "/seedream-3/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/seedream-3/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "seedream-4",
+                "path": "/seedream-4/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/seedream-4/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "seededit",
+                "path": "/seededit/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image/seededit/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "styles",
+            "path": "/styles/",
+            "count": 7,
+            "children": [
+              {
+                "name": "train-a-custom-style-lora",
+                "path": "/styles/train-a-custom-style-lora/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/train-a-custom-style-lora/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "search-styles",
+                "path": "/search-styles/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/search-styles/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "get-a-single-style-by-id",
+                "path": "/get-a-single-style-by-id/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/get-a-single-style-by-id/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "update-a-style",
+                "path": "/update-a-style/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/update-a-style/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "get-a-shareable-link-for-a-style",
+                "path": "/get-a-shareable-link-for-a-style/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/get-a-shareable-link-for-a-style/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "share-a-style-with-your-workspace",
+                "path": "/share-a-style-with-your-workspace/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/share-a-style-with-your-workspace/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "remove-a-style-from-your-workspace",
+                "path": "/remove-a-style-from-your-workspace/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/styles/remove-a-style-from-your-workspace/",
+                    "action": "remove",
+                    "object": "",
+                    "intent_category": "remove-general",
+                    "notes": "Remove unwanted parts or artifacts from the content."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "assets",
+            "path": "/assets/",
+            "count": 4,
+            "children": [
+              {
+                "name": "list-assets",
+                "path": "/assets/list-assets/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/assets/list-assets/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "upload-an-asset",
+                "path": "/upload-an-asset/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/assets/upload-an-asset/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "get-an-asset",
+                "path": "/get-an-asset/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/assets/get-an-asset/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "delete-an-asset",
+                "path": "/delete-an-asset/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/assets/delete-an-asset/",
+                    "action": "remove",
+                    "object": "",
+                    "intent_category": "remove-general",
+                    "notes": "Remove unwanted parts or artifacts from the content."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "image-enhance",
+            "path": "/image-enhance/",
+            "count": 3,
+            "children": [
+              {
+                "name": "topaz-generative",
+                "path": "/image-enhance/topaz-generative/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image-enhance/topaz-generative/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "topaz",
+                "path": "/topaz/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image-enhance/topaz/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "bloom",
+                "path": "/bloom/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/image-enhance/bloom/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "general",
+            "path": "/general/",
+            "count": 2,
+            "children": [
+              {
+                "name": "get-a-job-by-id",
+                "path": "/general/get-a-job-by-id/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/general/get-a-job-by-id/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "delete-a-job-by-id",
+                "path": "/delete-a-job-by-id/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/api-reference/general/delete-a-job-by-id/",
+                    "action": "remove",
+                    "object": "",
+                    "intent_category": "remove-general",
+                    "notes": "Remove unwanted parts or artifacts from the content."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "introduction",
+            "path": "/api-reference/introduction/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/api-reference/introduction/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "postman",
+            "path": "/postman/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/api-reference/postman/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "introduction.mdx",
+            "path": "/introduction.mdx/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/api-reference/introduction.mdx",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": []
+      },
+      {
+        "name": "login",
+        "path": "/login/",
+        "count": 34,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://www.krea.ai/login/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "apps",
+        "path": "/apps/",
+        "count": 21,
+        "children": [
+          {
+            "name": "edit",
+            "path": "/apps/edit/",
+            "count": 12,
+            "children": [
+              {
+                "name": "hold-product",
+                "path": "/apps/edit/hold-product/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/hold-product/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "nano-banana-pro",
+                "path": "/nano-banana-pro/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/nano-banana-pro/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "remove-text",
+                "path": "/remove-text/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/remove-text/",
+                    "action": "remove",
+                    "object": "text",
+                    "intent_category": "remove-text",
+                    "notes": "Remove unwanted parts or artifacts from the text."
+                  }
+                ]
+              },
+              {
+                "name": "ai-hairstyle-changer",
+                "path": "/ai-hairstyle-changer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/ai-hairstyle-changer/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "remove-object",
+                "path": "/remove-object/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/remove-object/",
+                    "action": "remove",
+                    "object": "",
+                    "intent_category": "remove-general",
+                    "notes": "Remove unwanted parts or artifacts from the content."
+                  }
+                ]
+              },
+              {
+                "name": "change-lighting",
+                "path": "/change-lighting/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/change-lighting/",
+                    "action": "convert",
+                    "object": "",
+                    "intent_category": "convert-general",
+                    "notes": "Convert the content between formats."
+                  }
+                ]
+              },
+              {
+                "name": "cartoonify",
+                "path": "/cartoonify/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/cartoonify/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "colorize",
+                "path": "/colorize/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/colorize/",
+                    "action": "colorize",
+                    "object": "",
+                    "intent_category": "colorize-general",
+                    "notes": "Add or fix color in the content."
+                  }
+                ]
+              },
+              {
+                "name": "change-clothes",
+                "path": "/change-clothes/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/change-clothes/",
+                    "action": "convert",
+                    "object": "",
+                    "intent_category": "convert-general",
+                    "notes": "Convert the content between formats."
+                  }
+                ]
+              },
+              {
+                "name": "movie-poster",
+                "path": "/movie-poster/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/movie-poster/",
+                    "action": "",
+                    "object": "poster",
+                    "intent_category": "general-poster",
+                    "notes": "poster related utility."
+                  }
+                ]
+              },
+              {
+                "name": "nano-banana-edit",
+                "path": "/nano-banana-edit/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/nano-banana-edit/",
+                    "action": "edit",
+                    "object": "",
+                    "intent_category": "edit-general",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "image-to-image",
+                "path": "/image-to-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/edit/image-to-image/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "image",
+            "path": "/image/",
+            "count": 4,
+            "children": [
+              {
+                "name": "flux-krea",
+                "path": "/image/flux-krea/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/image/flux-krea/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "wan-t2i",
+                "path": "/wan-t2i/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/image/wan-t2i/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "qwen",
+                "path": "/qwen/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/image/qwen/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "t-shirt-design-maker",
+                "path": "/t-shirt-design-maker/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/image/t-shirt-design-maker/",
+                    "action": "generate",
+                    "object": "",
+                    "intent_category": "generate-general",
+                    "notes": "Generate new content from prompts or source assets."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "video",
+            "path": "/video/",
+            "count": 2,
+            "children": [
+              {
+                "name": "sora-2",
+                "path": "/video/sora-2/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/video/sora-2/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo31",
+                "path": "/veo31/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://www.krea.ai/apps/video/veo31/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "enhance",
+            "path": "/enhance/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/apps/enhance/",
+                "action": "enhance",
+                "object": "",
+                "intent_category": "enhance-general",
+                "notes": "Improve quality of the content (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "polaroid",
+            "path": "/polaroid/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/apps/polaroid/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://www.krea.ai/apps/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "features",
+        "path": "/features/",
+        "count": 20,
+        "children": [
+          {
+            "name": "ai-image-generator",
+            "path": "/features/ai-image-generator/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/features/ai-image-generator/",
+                "action": "generate",
+                "object": "image",
+                "intent_category": "generate-image",
+                "notes": "Generate new image from prompts or source assets."
+              }
+            ]
+          },
+          {
+            "name": "ai-video-generator",
+            "path": "/ai-video-generator/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/features/ai-video-generator/",
+                "action": "generate",
+                "object": "video",
+                "intent_category": "generate-video",
+                "notes": "Generate new video from prompts or source assets."
+              }
+            ]
+          },
+          {
+            "name": "ai-upscaler",
+            "path": "/ai-upscaler/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/features/ai-upscaler/",
+                "action": "upscale",
+                "object": "",
+                "intent_category": "upscale-general",
+                "notes": "Increase resolution/size of the content without losing quality."
+              }
+            ]
+          },
+          {
+            "name": "ai-enhancer",
+            "path": "/ai-enhancer/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/features/ai-enhancer/",
+                "action": "enhance",
+                "object": "",
+                "intent_category": "enhance-general",
+                "notes": "Improve quality of the content (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "nodes",
+            "path": "/nodes/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/features/nodes/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "ai-image-editor",
+            "path": "/ai-image-editor/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/features/ai-image-editor/",
+                "action": "edit",
+                "object": "image",
+                "intent_category": "edit-image",
+                "notes": "image related utility."
+              }
+            ]
+          },
+          {
+            "name": "krea-image",
+            "path": "/krea-image/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/krea-image/",
+                "action": "",
+                "object": "image",
+                "intent_category": "general-image",
+                "notes": "image related utility."
+              }
+            ]
+          },
+          {
+            "name": "video",
+            "path": "/video/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/video/",
+                "action": "",
+                "object": "video",
+                "intent_category": "general-video",
+                "notes": "video related utility."
+              }
+            ]
+          },
+          {
+            "name": "enhancer",
+            "path": "/enhancer/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/enhancer/",
+                "action": "enhance",
+                "object": "",
+                "intent_category": "enhance-general",
+                "notes": "Improve quality of the content (sharpness, contrast, detail)."
+              }
+            ]
+          },
+          {
+            "name": "realtime",
+            "path": "/realtime/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/realtime/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "edit",
+            "path": "/edit/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/edit/",
+                "action": "edit",
+                "object": "",
+                "intent_category": "edit-general",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "training",
+            "path": "/training/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/training/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "3d",
+            "path": "/3d/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/3d/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "krea1",
+            "path": "/krea1/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/krea1/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "veo3",
+            "path": "/veo3/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/veo3/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "openai",
+            "path": "/openai/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/openai/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "ideogram",
+            "path": "/ideogram/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/ideogram/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "runway",
+            "path": "/runway/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/runway/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "flux",
+            "path": "/flux/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/flux/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "imagen4",
+            "path": "/imagen4/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/features/imagen4/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": []
+      },
+      {
+        "name": "user-guide",
+        "path": "/user-guide/",
+        "count": 20,
+        "children": [
+          {
+            "name": "features",
+            "path": "/features/",
+            "count": 15,
+            "children": [
+              {
+                "name": "krea1",
+                "path": "/features/krea1/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/krea1/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "krea-image",
+                "path": "/krea-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/krea-image/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "path": "/video/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/video/",
+                    "action": "",
+                    "object": "video",
+                    "intent_category": "general-video",
+                    "notes": "video related utility."
+                  }
+                ]
+              },
+              {
+                "name": "realtime",
+                "path": "/realtime/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/realtime/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "enhancer",
+                "path": "/enhancer/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/enhancer/",
+                    "action": "enhance",
+                    "object": "",
+                    "intent_category": "enhance-general",
+                    "notes": "Improve quality of the content (sharpness, contrast, detail)."
+                  }
+                ]
+              },
+              {
+                "name": "edit",
+                "path": "/edit/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/edit/",
+                    "action": "edit",
+                    "object": "",
+                    "intent_category": "edit-general",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "training",
+                "path": "/training/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/training/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "3d",
+                "path": "/3d/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/3d/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "teams",
+                "path": "/teams/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/teams/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "flux",
+                "path": "/flux/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/flux/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "imagen4",
+                "path": "/imagen4/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/imagen4/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "ideogram",
+                "path": "/ideogram/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/ideogram/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "openai",
+                "path": "/openai/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/openai/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "runway",
+                "path": "/runway/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/runway/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "veo3",
+                "path": "/veo3/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/features/veo3/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "help-and-support",
+            "path": "/help-and-support/",
+            "count": 3,
+            "children": [
+              {
+                "name": "manage-subscriptions",
+                "path": "/help-and-support/manage-subscriptions/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/help-and-support/manage-subscriptions/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "compute-units",
+                "path": "/compute-units/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/help-and-support/compute-units/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              },
+              {
+                "name": "refunds-and-billing",
+                "path": "/refunds-and-billing/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/help-and-support/refunds-and-billing/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "get-started",
+            "path": "/get-started/",
+            "count": 1,
+            "children": [
+              {
+                "name": "what-is-krea",
+                "path": "/get-started/what-is-krea/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/user-guide/get-started/what-is-krea/",
+                    "action": "",
+                    "object": "",
+                    "intent_category": "unknown",
+                    "notes": ""
+                  }
+                ]
+              }
+            ],
+            "records": []
+          }
+        ],
+        "records": [
+          {
+            "url": "https://docs.krea.ai/user-guide/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "articles",
+        "path": "/articles/",
+        "count": 14,
+        "children": [
+          {
+            "name": "freepik-spaces-vs-krea-nodes",
+            "path": "/freepik-spaces-vs-krea-nodes/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/freepik-spaces-vs-krea-nodes/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "weavy-vs-imagine-art-flow",
+            "path": "/weavy-vs-imagine-art-flow/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/weavy-vs-imagine-art-flow/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "top-node-based-ai-workflow-apps",
+            "path": "/top-node-based-ai-workflow-apps/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/top-node-based-ai-workflow-apps/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "figma-weave-vs-fal",
+            "path": "/figma-weave-vs-fal/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/figma-weave-vs-fal/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "flora-vs-figma-weave",
+            "path": "/flora-vs-figma-weave/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/flora-vs-figma-weave/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "invokeai-vs-flora",
+            "path": "/invokeai-vs-flora/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/invokeai-vs-flora/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "fal-vs-flora",
+            "path": "/fal-vs-flora/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/fal-vs-flora/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "sora-2",
+            "path": "/sora-2/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/sora-2/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "visual-electric-vs-krea",
+            "path": "/visual-electric-vs-krea/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/visual-electric-vs-krea/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "nano-banana",
+            "path": "/nano-banana/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/nano-banana/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "seedream-4-guide",
+            "path": "/seedream-4-guide/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/seedream-4-guide/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "midjourney-vs-krea",
+            "path": "/midjourney-vs-krea/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/midjourney-vs-krea/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "ai-image-generators-2025",
+            "path": "/ai-image-generators-2025/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/articles/ai-image-generators-2025/",
+                "action": "generate",
+                "object": "image",
+                "intent_category": "generate-image",
+                "notes": "Generate new image from prompts or source assets."
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://www.krea.ai/articles/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "developers",
+        "path": "/developers/",
+        "count": 11,
+        "children": [
+          {
+            "name": "examples",
+            "path": "/examples/",
+            "count": 4,
+            "children": [
+              {
+                "name": "text-to-image",
+                "path": "/examples/text-to-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/developers/examples/text-to-image/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              },
+              {
+                "name": "image-to-image",
+                "path": "/image-to-image/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/developers/examples/image-to-image/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              },
+              {
+                "name": "text-to-video",
+                "path": "/text-to-video/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/developers/examples/text-to-video/",
+                    "action": "",
+                    "object": "text",
+                    "intent_category": "general-text",
+                    "notes": "text related utility."
+                  }
+                ]
+              },
+              {
+                "name": "image-to-video",
+                "path": "/image-to-video/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/developers/examples/image-to-video/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          },
+          {
+            "name": "introduction",
+            "path": "/developers/introduction/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/developers/introduction/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "interactiveexample",
+            "path": "/interactiveexample/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/developers/interactiveexample/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "job-lifecycle",
+            "path": "/job-lifecycle/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/developers/job-lifecycle/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "webhooks",
+            "path": "/webhooks/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/developers/webhooks/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "rate-limits",
+            "path": "/rate-limits/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/developers/rate-limits/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "api-keys-and-billing",
+            "path": "/api-keys-and-billing/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/developers/api-keys-and-billing/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "tutorials",
+            "path": "/tutorials/",
+            "count": 1,
+            "children": [
+              {
+                "name": "train-image-style",
+                "path": "/tutorials/train-image-style/",
+                "count": 1,
+                "children": [],
+                "records": [
+                  {
+                    "url": "https://docs.krea.ai/developers/tutorials/train-image-style/",
+                    "action": "",
+                    "object": "image",
+                    "intent_category": "general-image",
+                    "notes": "image related utility."
+                  }
+                ]
+              }
+            ],
+            "records": []
+          }
+        ],
+        "records": []
+      },
+      {
+        "name": "image",
+        "path": "/image/",
+        "count": 8,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://www.krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          },
+          {
+            "url": "https://krea.ai/image/",
+            "action": "",
+            "object": "image",
+            "intent_category": "general-image",
+            "notes": "image related utility."
+          }
+        ]
+      },
+      {
+        "name": "models",
+        "path": "/models/",
+        "count": 8,
+        "children": [
+          {
+            "name": "krea-1",
+            "path": "/krea-1/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/krea-1/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "nano-banana-pro",
+            "path": "/nano-banana-pro/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/nano-banana-pro/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "kling",
+            "path": "/kling/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/kling/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "runway",
+            "path": "/runway/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/runway/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "sora2",
+            "path": "/sora2/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/sora2/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "veo3",
+            "path": "/veo3/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/veo3/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "veo3.1",
+            "path": "/veo3.1/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/models/veo3.1",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://www.krea.ai/models/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "path": "/video/",
+        "count": 7,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          },
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          },
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          },
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          },
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          },
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          },
+          {
+            "url": "https://www.krea.ai/video/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          }
+        ]
+      },
+      {
+        "name": "blog",
+        "path": "/blog/",
+        "count": 6,
+        "children": [
+          {
+            "name": "krea-realtime-14b",
+            "path": "/krea-realtime-14b/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/blog/krea-realtime-14b/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "flux-krea-open-source-release",
+            "path": "/flux-krea-open-source-release/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/blog/flux-krea-open-source-release/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "new-krea",
+            "path": "/new-krea/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/blog/new-krea/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "introducing-teams",
+            "path": "/introducing-teams/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/blog/introducing-teams/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          },
+          {
+            "name": "ship-week",
+            "path": "/ship-week/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/blog/ship-week/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://www.krea.ai/blog/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "enhancer",
+        "path": "/enhancer/",
+        "count": 3,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/enhancer/",
+            "action": "enhance",
+            "object": "",
+            "intent_category": "enhance-general",
+            "notes": "Improve quality of the content (sharpness, contrast, detail)."
+          },
+          {
+            "url": "https://www.krea.ai/enhancer/",
+            "action": "enhance",
+            "object": "",
+            "intent_category": "enhance-general",
+            "notes": "Improve quality of the content (sharpness, contrast, detail)."
+          },
+          {
+            "url": "https://www.krea.ai/enhancer/",
+            "action": "enhance",
+            "object": "",
+            "intent_category": "enhance-general",
+            "notes": "Improve quality of the content (sharpness, contrast, detail)."
+          }
+        ]
+      },
+      {
+        "name": "settings",
+        "path": "/settings/",
+        "count": 3,
+        "children": [
+          {
+            "name": "api-tokens",
+            "path": "/settings/api-tokens/",
+            "count": 2,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/settings/api-tokens/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              },
+              {
+                "url": "https://krea.ai/settings/api-tokens/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://www.krea.ai/settings/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "pricing",
+        "path": "/pricing/",
+        "count": 2,
+        "children": [
+          {
+            "name": "teams",
+            "path": "/teams/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://www.krea.ai/pricing/teams/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": [
+          {
+            "url": "https://www.krea.ai/pricing/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "careers",
+        "path": "/careers/",
+        "count": 2,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/careers/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://krea.ai/careers/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "discord",
+        "path": "/discord/",
+        "count": 2,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/discord/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          },
+          {
+            "url": "https://krea.ai/discord/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "app",
+        "path": "/app/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/app/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "enterprise",
+        "path": "/enterprise/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/enterprise/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "realtime",
+        "path": "/realtime/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/realtime/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "motion-transfer",
+        "path": "/motion-transfer/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/motion-transfer/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "3d",
+        "path": "/3d/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/3d/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "edit",
+        "path": "/edit/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/edit/",
+            "action": "edit",
+            "object": "",
+            "intent_category": "edit-general",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "animator",
+        "path": "/animator/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/animator/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "video-restyle",
+        "path": "/video-restyle/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/video-restyle/",
+            "action": "",
+            "object": "video",
+            "intent_category": "general-video",
+            "notes": "video related utility."
+          }
+        ]
+      },
+      {
+        "name": "train",
+        "path": "/train/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/train/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "assets",
+        "path": "/assets/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/assets/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "feed",
+        "path": "/feed/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/feed/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "terms",
+        "path": "/terms/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/terms/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "privacy",
+        "path": "/privacy/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/privacy/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "nano-banana",
+        "path": "/nano-banana/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/nano-banana/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "nodes",
+        "path": "/nodes/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/nodes/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "lipsync",
+        "path": "/lipsync/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/lipsync/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "architecture",
+        "path": "/architecture/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/architecture/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "chat",
+        "path": "/chat/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/chat/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "stage",
+        "path": "/stage/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/stage/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "home",
+        "path": "/home/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://docs.krea.ai/home/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "get-started",
+        "path": "/get-started/",
+        "count": 1,
+        "children": [
+          {
+            "name": "what-is-krea",
+            "path": "/get-started/what-is-krea/",
+            "count": 1,
+            "children": [],
+            "records": [
+              {
+                "url": "https://docs.krea.ai/get-started/what-is-krea/",
+                "action": "",
+                "object": "",
+                "intent_category": "unknown",
+                "notes": ""
+              }
+            ]
+          }
+        ],
+        "records": []
+      },
+      {
+        "name": "krea-1",
+        "path": "/krea-1/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://krea.ai/krea-1/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "provision",
+        "path": "/provision/",
+        "count": 1,
+        "children": [],
+        "records": [
+          {
+            "url": "https://www.krea.ai/provision/",
+            "action": "",
+            "object": "",
+            "intent_category": "unknown",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "records": [
+      {
+        "url": "https://www.krea.ai/",
+        "action": "",
+        "object": "",
+        "intent_category": "unknown",
+        "notes": ""
+      },
+      {
+        "url": "https://docs.krea.ai/",
+        "action": "",
+        "object": "",
+        "intent_category": "unknown",
+        "notes": ""
+      }
+    ]
+  }
+}

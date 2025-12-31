@@ -1,0 +1,156 @@
+{
+  "by_intent_category": [
+    {
+      "intent_category": "unknown",
+      "url_count": 211,
+      "sample_urls": [
+        "/",
+        "/app/",
+        "/features/ai-upscaler/"
+      ]
+    },
+    {
+      "intent_category": "general-image",
+      "url_count": 19,
+      "sample_urls": [
+        "/features/ai-image-generator/",
+        "/image/",
+        "/image/"
+      ]
+    },
+    {
+      "intent_category": "general-video",
+      "url_count": 11,
+      "sample_urls": [
+        "/features/ai-video-generator/",
+        "/video/",
+        "/video-restyle/"
+      ]
+    },
+    {
+      "intent_category": "remove-general",
+      "url_count": 2,
+      "sample_urls": [
+        "/apps/edit/remove-object/",
+        "/api-reference/styles/remove-a-style-from-your-workspace/"
+      ]
+    },
+    {
+      "intent_category": "remove-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/remove-text/"
+      ]
+    },
+    {
+      "intent_category": "colorize-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/colorize/"
+      ]
+    },
+    {
+      "intent_category": "enhance-general",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/enhance/"
+      ]
+    },
+    {
+      "intent_category": "general-poster",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/movie-poster/"
+      ]
+    },
+    {
+      "intent_category": "general-text",
+      "url_count": 1,
+      "sample_urls": [
+        "/developers/examples/text-to-video/"
+      ]
+    }
+  ],
+  "by_action_object": [
+    {
+      "action": "unknown",
+      "object": "unknown",
+      "url_count": 211,
+      "sample_urls": [
+        "/",
+        "/app/",
+        "/features/ai-upscaler/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "image",
+      "url_count": 19,
+      "sample_urls": [
+        "/features/ai-image-generator/",
+        "/image/",
+        "/image/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "video",
+      "url_count": 11,
+      "sample_urls": [
+        "/features/ai-video-generator/",
+        "/video/",
+        "/video-restyle/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "unknown",
+      "url_count": 2,
+      "sample_urls": [
+        "/apps/edit/remove-object/",
+        "/api-reference/styles/remove-a-style-from-your-workspace/"
+      ]
+    },
+    {
+      "action": "remove",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/remove-text/"
+      ]
+    },
+    {
+      "action": "colorize",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/colorize/"
+      ]
+    },
+    {
+      "action": "enhance",
+      "object": "unknown",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/enhance/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "poster",
+      "url_count": 1,
+      "sample_urls": [
+        "/apps/edit/movie-poster/"
+      ]
+    },
+    {
+      "action": "unknown",
+      "object": "text",
+      "url_count": 1,
+      "sample_urls": [
+        "/developers/examples/text-to-video/"
+      ]
+    }
+  ],
+  "total_urls": 248
+}

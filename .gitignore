@@ -1,0 +1,23 @@
+# System
+.DS_Store
+.checkpoints
+.gemini/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Output Data (Don't commit large datasets)
+output/
+!output/.gitkeep

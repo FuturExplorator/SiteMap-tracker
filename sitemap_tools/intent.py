@@ -22,6 +22,7 @@ class IntentRecord:
     lastmod: Optional[str] = None
     similar_keywords: List[str] = field(default_factory=list)
     filtered_tokens: List[str] = field(default_factory=list)
+    is_new: bool = False
 
     def to_csv_row(self) -> List[str]:
         return [
@@ -35,6 +36,7 @@ class IntentRecord:
             self.intent_category,
             self.notes,
             self.lastmod or "",
+            "true" if self.is_new else "false",
         ]
 
 
@@ -43,10 +45,11 @@ def path_depth(path: str) -> int:
 
 
 def tokenize_slug(path: str) -> List[str]:
-    last_segment = path.strip("/").split("/")[-1]
-    if not last_segment:
-        return []
-    tokens = re.split(r"[-_]+", last_segment)
+    # Use all segments, not just the last one
+    segments = [s for s in path.strip("/").split("/") if s]
+    tokens = []
+    for seg in segments:
+        tokens.extend(re.split(r"[-_]+", seg))
     return [t.lower() for t in tokens if t]
 
 
@@ -116,11 +119,94 @@ def filter_tokens(tokens: List[str]) -> List[str]:
     return [t for t in tokens if t not in STOPWORDS]
 
 
+def _stem(token: str) -> str:
+    """
+    Lightweight Porter-like stemmer.
+    Removes common suffixes to improve matching recall.
+    """
+    # Step 1: Plurals and simple suffixes
+    if token.endswith("s") and not token.endswith("ss"):
+        token = token[:-1]
+    
+    # Step 2: Common endings
+    suffixes = [
+        ("ing", ""),
+        ("ed", ""),
+        ("ment", ""),
+        ("ness", ""),
+        ("ers", ""),
+        ("er", ""),
+        ("able", ""),
+        ("ible", ""),
+        ("ion", ""),
+    ]
+    for suff, repl in suffixes:
+        if token.endswith(suff):
+             # Basic constraint: don't reduce too short (e.g., "ring" -> "r")
+            if len(token) - len(suff) > 2:
+                return token[: -len(suff)] + repl
+            
+    return token
+
+
 def rule_infer(tokens: Iterable[str], actions: List[str], objects: List[str]) -> Tuple[str, str]:
-    token_set = set(tokens)
-    action = next((a for a in actions if a.lower() in token_set), "")
-    obj = next((o for o in objects if o.lower() in token_set), "")
-    return action, obj
+    token_list = list(tokens)
+    
+    # Stemming map: token -> stem
+    stems = {t: _stem(t) for t in token_list}
+    stem_set = set(stems.values())
+
+    # Pre-stem actions and objects for comparison
+    action_stems = {a: _stem(a) for a in actions}
+    object_stems = {o: _stem(o) for o in objects}
+    
+    found_action = ""
+    found_obj = ""
+
+    # 1. Look for matches using stems
+    
+    # Check Actions
+    # Direct match first (unstemmed)
+    found_action = next((a for a in actions if a.lower() in token_list), "")
+    if not found_action:
+        # Stemmed match
+        for a, astem in action_stems.items():
+            if astem in stem_set:
+                found_action = a
+                break
+    
+    # Check Objects
+    found_obj = next((o for o in objects if o.lower() in token_list), "")
+    if not found_obj:
+        for o, ostem in object_stems.items():
+            if ostem in stem_set:
+                found_obj = o
+                break
+
+    # 2. Synonym match (Reverse lookup with stemming)
+    if not found_action:
+        for canon, syns in ACTION_SYNONYMS.items():
+            # Check unstemmed synonyms
+            if any(s in token_list for s in syns):
+                found_action = canon
+                break
+            # Check stemmed synonyms
+            syn_stems = {_stem(s) for s in syns}
+            if not set(syn_stems).isdisjoint(stem_set):
+                found_action = canon
+                break
+
+    if not found_obj:
+        for canon, syns in OBJECT_SYNONYMS.items():
+            if any(s in token_list for s in syns):
+                found_obj = canon
+                break
+            syn_stems = {_stem(s) for s in syns}
+            if not set(syn_stems).isdisjoint(stem_set):
+                found_obj = canon
+                break
+
+    return found_action, found_obj
 
 
 def derive_intent_category(action: str, obj: str) -> str:
@@ -279,32 +365,35 @@ def summarize_by_intent(records: List[IntentRecord]) -> List[Dict[str, Any]]:
 
 # Heuristic helpers to make the table more readable without heavy LLM use.
 ACTION_SYNONYMS = {
-    "unblur": ["deblur", "sharpen", "clarify"],
-    "enhance": ["improve", "boost", "refine"],
-    "upscale": ["enlarge", "increase-resolution", "rescale"],
-    "remove": ["erase", "delete", "strip"],
-    "denoise": ["reduce-noise", "clean-noise"],
-    "restore": ["repair", "fix", "recover"],
-    "convert": ["transform", "turn-into"],
-    "generate": ["create", "make", "produce"],
-    "colorize": ["add-color", "recolor"],
-    "blur": ["soften", "apply-blur"],
+    "unblur": ["deblur", "sharpen", "clarify", "clear"],
+    "enhance": ["improve", "boost", "refine", "enhancement", "enhancer"],
+    "upscale": ["enlarge", "increase-resolution", "rescale", "upscaler", "resize"],
+    "remove": ["erase", "delete", "strip", "remover", "removal"],
+    "denoise": ["reduce-noise", "clean-noise", "clean"],
+    "restore": ["repair", "fix", "recover", "restoration"],
+    "convert": ["transform", "turn-into", "converter", "change"],
+    "generate": ["create", "make", "produce", "generator", "creation", "maker"],
+    "colorize": ["add-color", "recolor", "colour"],
+    "blur": ["soften", "apply-blur", "blurred"],
     "fix": ["repair", "correct"],
     "sharpen": ["enhance-edges", "clarify"],
+    "compress": ["shrink", "reduce-size", "compression"],
+    "edit": ["editor", "modify", "change"],
 }
 
 OBJECT_SYNONYMS = {
-    "image": ["photo", "picture", "pic"],
-    "photo": ["image", "picture"],
-    "picture": ["image", "photo"],
-    "video": ["clip", "footage"],
-    "text": ["document", "copy"],
+    "image": ["photo", "picture", "pic", "images", "photos", "pictures", "pics", "jpg", "png"],
+    "photo": ["image", "picture", "images", "photos", "pictures"],
+    "picture": ["image", "photo", "images", "photos", "pictures"],
+    "video": ["clip", "footage", "movie", "videos", "clips", "mp4"],
+    "text": ["document", "copy", "txt", "pdf", "word"],
+    "audio": ["sound", "voice", "mp3", "wav", "speech"],
     "background": ["bg", "backdrop"],
     "noise": ["grain"],
     "watermark": ["stamp", "logo-mark"],
-    "headshot": ["portrait", "avatar"],
-    "logo": ["brand-mark"],
-    "resume": ["cv"],
+    "headshot": ["portrait", "avatar", "face", "selfie"],
+    "logo": ["brand-mark", "icon"],
+    "resume": ["cv", "curriculum-vitae"],
 }
 
 
